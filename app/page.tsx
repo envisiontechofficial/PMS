@@ -4,7 +4,14 @@ import { GoogleOAuthProvider, GoogleLogin } from "@react-oauth/google";
 const API = process.env.NEXT_PUBLIC_API!;
 const RANK: Record<string, number> = { admin: 3, manager: 2, salesperson: 1 };
 type Me = { email: string; name: string; role: string };
-type Med = { id: number; name: string; batch: string; expiry: string; stock: number; price: number; cost?: number };
+const med: Med = {
+  id: row.id,
+  name: row.medicine_name,
+  batch: row.batch,
+  expiry: row.expiry,
+  quantity: row.quantity,
+  price: row.price,
+};
 type Row = Record<string, any>;
 const blank = { name: "", batch: "", expiry: "", stock: "0", cost: "0", price: "0" };
 const ld = (d: Date) => new Date(d.getTime() - d.getTimezoneOffset() * 6e4).toISOString().slice(0, 10);
