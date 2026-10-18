@@ -1,0 +1,68 @@
+{
+ "medicines": [
+  {
+   "id": "1",
+   "name": "Panadol",
+   "batch": "2211",
+   "expiry": "2027-01-23",
+   "stock": "50",
+   "cost": "50.0",
+   "price": "60.0"
+  }
+ ],
+ "sales": [
+  {
+   "id": "1",
+   "medicine_id": "1",
+   "qty": "5",
+   "total": "300.0",
+   "user_id": "1",
+   "at": "2026-10-11 18:19:48.922516"
+  }
+ ],
+ "purchases": [],
+ "audit": [
+  {
+   "id": "1",
+   "who": "muhammad.waseq1@gmail.com",
+   "action": "add medicine Disp",
+   "at": "2026-10-11 16:07:35.923201"
+  },
+  {
+   "id": "2",
+   "who": "muhammad.waseq1@gmail.com",
+   "action": "delete medicine Disp",
+   "at": "2026-10-11 17:38:46.228768"
+  },
+  {
+   "id": "3",
+   "who": "muhammad.waseq1@gmail.com",
+   "action": "user ch.waseq1@gmail.com -> manager,None",
+   "at": "2026-10-11 17:44:34.463736"
+  },
+  {
+   "id": "4",
+   "who": "muhammad.waseq1@gmail.com",
+   "action": "user envisiontechofficial@gmail.com -> salesperson,True",
+   "at": "2026-10-11 17:46:02.670106"
+  },
+  {
+   "id": "5",
+   "who": "muhammad.waseq1@gmail.com",
+   "action": "add medicine Panadol",
+   "at": "2026-10-11 17:49:23.320124"
+  },
+  {
+   "id": "6",
+   "who": "muhammad.waseq1@gmail.com",
+   "action": "edit medicine Panadol",
+   "at": "2026-10-11 18:19:27.179984"
+  },
+  {
+   "id": "7",
+   "who": "muhammad.waseq1@gmail.com",
+   "action": "sale Panadol x5",
+   "at": "2026-10-11 18:19:48.925776"
+  }
+ ]
+}

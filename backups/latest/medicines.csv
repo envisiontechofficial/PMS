@@ -1,0 +1,1002 @@
+﻿id,name,batch,expiry,stock,cost,price
+1,Panadol,2211,2027-01-23,48,50.0,60.0
+2,Paracetamol 500 mg Tablet,TEST1000,2027-01-01,3,689.0,860.0
+3,Paracetamol 650 mg Tablet,TEST1001,2027-01-12,17,285.0,355.0
+4,Paracetamol 120 mg/5 mL Syrup,TEST1002,2027-01-23,114,727.0,910.0
+5,Paracetamol 100 mg/mL Drops,TEST1003,2027-02-03,54,124.0,155.0
+6,Paracetamol 125 mg Suppository,TEST1004,2027-02-14,27,65.0,80.0
+7,Ibuprofen 200 mg Tablet,TEST1005,2027-02-25,3,552.0,690.0
+8,Ibuprofen 400 mg Tablet,TEST1006,2027-03-08,83,238.0,300.0
+9,Ibuprofen 100 mg/5 mL Suspension,TEST1007,2027-03-19,57,464.0,580.0
+10,Ibuprofen 5% Gel,TEST1008,2027-03-30,97,319.0,400.0
+11,Diclofenac sodium 50 mg Tablet,TEST1009,2027-04-10,43,749.0,935.0
+12,Diclofenac sodium 100 mg SR Tablet,TEST1010,2027-04-21,97,194.0,240.0
+13,Diclofenac sodium 75 mg/3 mL Injection,TEST1011,2027-05-02,48,139.0,175.0
+14,Diclofenac sodium 1% Gel,TEST1012,2027-05-13,77,402.0,500.0
+15,Diclofenac sodium 100 mg Suppository,TEST1013,2027-05-24,93,861.0,1075.0
+16,Naproxen 250 mg Tablet,TEST1014,2027-06-04,118,584.0,730.0
+17,Naproxen 500 mg Tablet,TEST1015,2027-06-15,37,115.0,145.0
+18,Naproxen 125 mg/5 mL Suspension,TEST1016,2027-06-26,24,405.0,505.0
+19,Aspirin 75 mg Tablet,TEST1017,2027-07-07,29,81.0,100.0
+20,Aspirin 300 mg Tablet,TEST1018,2027-07-18,109,116.0,145.0
+21,Aspirin 75 mg EC Tablet,TEST1019,2027-07-29,58,424.0,530.0
+22,Cetirizine 10 mg Tablet,TEST1020,2027-08-09,45,201.0,250.0
+23,Cetirizine 5 mg/5 mL Syrup,TEST1021,2027-08-20,89,721.0,900.0
+24,Cetirizine 10 mg/mL Drops,TEST1022,2027-08-31,21,658.0,820.0
+25,Loratadine 10 mg Tablet,TEST1023,2027-09-11,20,781.0,975.0
+26,Loratadine 5 mg/5 mL Syrup,TEST1024,2027-09-22,118,423.0,530.0
+27,Fexofenadine 120 mg Tablet,TEST1025,2027-10-03,41,259.0,325.0
+28,Fexofenadine 180 mg Tablet,TEST1026,2027-10-14,103,269.0,335.0
+29,Fexofenadine 30 mg/5 mL Suspension,TEST1027,2027-10-25,8,445.0,555.0
+30,Chlorpheniramine 4 mg Tablet,TEST1028,2027-11-05,40,615.0,770.0
+31,Chlorpheniramine 2 mg/5 mL Syrup,TEST1029,2027-11-16,50,706.0,880.0
+32,Chlorpheniramine 10 mg/mL Injection,TEST1030,2027-11-27,17,181.0,225.0
+33,Diphenhydramine 25 mg Capsule,TEST1031,2027-12-08,68,797.0,995.0
+34,Diphenhydramine 12.5 mg/5 mL Syrup,TEST1032,2027-12-19,54,799.0,1000.0
+35,Diphenhydramine 2% Cream,TEST1033,2027-12-30,28,443.0,555.0
+36,Omeprazole 20 mg Capsule,TEST1034,2028-01-10,11,556.0,695.0
+37,Omeprazole 40 mg Capsule,TEST1035,2028-01-21,80,147.0,185.0
+38,Omeprazole 40 mg Injection,TEST1036,2028-02-01,54,846.0,1060.0
+39,Esomeprazole 20 mg Capsule,TEST1037,2028-02-12,48,100.0,125.0
+40,Esomeprazole 40 mg Capsule,TEST1038,2028-02-23,32,514.0,640.0
+41,Esomeprazole 40 mg Tablet,TEST1039,2028-03-05,92,46.0,60.0
+42,Esomeprazole 40 mg Injection,TEST1040,2028-03-16,96,733.0,915.0
+43,Pantoprazole 20 mg Tablet,TEST1041,2028-03-27,43,822.0,1030.0
+44,Pantoprazole 40 mg Tablet,TEST1042,2028-04-07,20,335.0,420.0
+45,Pantoprazole 40 mg Injection,TEST1043,2028-04-18,112,38.0,50.0
+46,Famotidine 20 mg Tablet,TEST1044,2028-04-29,64,547.0,685.0
+47,Famotidine 40 mg Tablet,TEST1045,2028-05-10,107,675.0,845.0
+48,Famotidine 40 mg/5 mL Suspension,TEST1046,2028-05-21,19,658.0,820.0
+49,Domperidone 10 mg Tablet,TEST1047,2028-06-01,69,815.0,1020.0
+50,Domperidone 5 mg/5 mL Suspension,TEST1048,2028-06-12,41,35.0,45.0
+51,Ondansetron 4 mg Tablet,TEST1049,2028-06-23,118,54.0,70.0
+52,Ondansetron 8 mg Tablet,TEST1050,2028-07-04,30,886.0,1110.0
+53,Ondansetron 4 mg/5 mL Syrup,TEST1051,2028-07-15,10,281.0,350.0
+54,Ondansetron 4 mg/2 mL Injection,TEST1052,2028-07-26,104,784.0,980.0
+55,Metoclopramide 10 mg Tablet,TEST1053,2028-08-06,98,813.0,1015.0
+56,Metoclopramide 5 mg/5 mL Syrup,TEST1054,2028-08-17,60,166.0,210.0
+57,Metoclopramide 10 mg/2 mL Injection,TEST1055,2028-08-28,67,204.0,255.0
+58,Loperamide 2 mg Capsule,TEST1056,2028-09-08,118,468.0,585.0
+59,Loperamide 2 mg Tablet,TEST1057,2028-09-19,88,808.0,1010.0
+60,Oral rehydration salts Standard formula Sachet,TEST1058,2028-09-30,51,765.0,955.0
+61,Oral rehydration salts Low-osmolarity formula Sachet,TEST1059,2028-10-11,57,483.0,605.0
+62,Lactulose 3.35 g/5 mL Solution,TEST1060,2028-10-22,8,288.0,360.0
+63,Bisacodyl 5 mg Tablet,TEST1061,2028-11-02,70,56.0,70.0
+64,Bisacodyl 10 mg Suppository,TEST1062,2028-11-13,0,637.0,795.0
+65,Senna 7.5 mg Tablet,TEST1063,2028-11-24,7,759.0,950.0
+66,Senna 15 mg Tablet,TEST1064,2028-12-05,110,104.0,130.0
+67,Lactobacillus probiotic Standard Capsule,TEST1065,2028-12-16,30,107.0,135.0
+68,Lactobacillus probiotic Standard Sachet,TEST1066,2028-12-27,27,720.0,900.0
+69,Lactobacillus probiotic Standard Drops,TEST1067,2029-01-07,119,170.0,210.0
+70,Amoxicillin 250 mg Capsule,TEST1068,2029-01-18,31,625.0,780.0
+71,Amoxicillin 500 mg Capsule,TEST1069,2029-01-29,24,861.0,1075.0
+72,Amoxicillin 125 mg/5 mL Suspension,TEST1070,2029-02-09,55,134.0,170.0
+73,Amoxicillin 250 mg/5 mL Suspension,TEST1071,2029-02-20,59,468.0,585.0
+74,Amoxicillin + clavulanic acid 625 mg Tablet,TEST1072,2029-03-03,82,724.0,905.0
+75,Amoxicillin + clavulanic acid 1 g Tablet,TEST1073,2029-03-14,93,97.0,120.0
+76,Amoxicillin + clavulanic acid 228.5 mg/5 mL Suspension,TEST1074,2029-03-25,31,854.0,1070.0
+77,Amoxicillin + clavulanic acid 457 mg/5 mL Suspension,TEST1075,2029-04-05,57,229.0,285.0
+78,Azithromycin 250 mg Tablet,TEST1076,2029-04-16,35,467.0,585.0
+79,Azithromycin 500 mg Tablet,TEST1077,2029-04-27,56,290.0,360.0
+80,Azithromycin 200 mg/5 mL Suspension,TEST1078,2029-05-08,83,135.0,170.0
+81,Cefixime 200 mg Capsule,TEST1079,2029-05-19,11,891.0,1115.0
+82,Cefixime 400 mg Capsule,TEST1080,2029-05-30,62,205.0,255.0
+83,Cefixime 100 mg/5 mL Suspension,TEST1081,2029-06-10,115,253.0,315.0
+84,Cefixime 200 mg/5 mL Suspension,TEST1082,2029-06-21,0,203.0,255.0
+85,Cefuroxime 250 mg Tablet,TEST1083,2029-07-02,36,306.0,380.0
+86,Cefuroxime 500 mg Tablet,TEST1084,2029-07-13,100,748.0,935.0
+87,Cefuroxime 125 mg/5 mL Suspension,TEST1085,2029-07-24,62,712.0,890.0
+88,Cefuroxime 750 mg Injection,TEST1086,2029-08-04,27,229.0,285.0
+89,Cephalexin 250 mg Capsule,TEST1087,2029-08-15,69,628.0,785.0
+90,Cephalexin 500 mg Capsule,TEST1088,2029-08-26,7,800.0,1000.0
+91,Cephalexin 125 mg/5 mL Suspension,TEST1089,2029-09-06,64,633.0,790.0
+92,Ciprofloxacin 250 mg Tablet,TEST1090,2029-09-17,65,196.0,245.0
+93,Ciprofloxacin 500 mg Tablet,TEST1091,2029-09-28,76,225.0,280.0
+94,Ciprofloxacin 750 mg Tablet,TEST1092,2029-10-09,51,726.0,910.0
+95,Ciprofloxacin 0.3% Eye drops,TEST1093,2029-10-20,74,618.0,770.0
+96,Levofloxacin 250 mg Tablet,TEST1094,2029-10-31,10,75.0,95.0
+97,Levofloxacin 500 mg Tablet,TEST1095,2029-11-11,72,708.0,885.0
+98,Levofloxacin 750 mg Tablet,TEST1096,2029-11-22,26,358.0,450.0
+99,Levofloxacin 0.5% Eye drops,TEST1097,2029-12-03,50,279.0,350.0
+100,Doxycycline 100 mg Capsule,TEST1098,2029-12-14,38,722.0,900.0
+101,Doxycycline 100 mg Tablet,TEST1099,2029-12-25,1,358.0,450.0
+102,Metronidazole 200 mg Tablet,TEST1100,2027-01-06,12,671.0,840.0
+103,Metronidazole 400 mg Tablet,TEST1101,2027-01-17,64,585.0,730.0
+104,Metronidazole 200 mg/5 mL Suspension,TEST1102,2027-01-28,112,170.0,210.0
+105,Metronidazole 500 mg/100 mL Infusion,TEST1103,2027-02-08,36,285.0,355.0
+106,Nitrofurantoin 50 mg Capsule,TEST1104,2027-02-19,90,483.0,605.0
+107,Nitrofurantoin 100 mg Capsule,TEST1105,2027-03-02,67,661.0,825.0
+108,Co-trimoxazole 480 mg Tablet,TEST1106,2027-03-13,38,718.0,900.0
+109,Co-trimoxazole 960 mg Tablet,TEST1107,2027-03-24,14,172.0,215.0
+110,Co-trimoxazole 240 mg/5 mL Suspension,TEST1108,2027-04-04,19,795.0,995.0
+111,Fluconazole 50 mg Capsule,TEST1109,2027-04-15,26,323.0,405.0
+112,Fluconazole 150 mg Capsule,TEST1110,2027-04-26,81,243.0,305.0
+113,Fluconazole 200 mg Capsule,TEST1111,2027-05-07,32,552.0,690.0
+114,Fluconazole 50 mg/5 mL Suspension,TEST1112,2027-05-18,54,129.0,160.0
+115,Clotrimazole 1% Cream,TEST1113,2027-05-29,42,80.0,100.0
+116,Clotrimazole 100 mg Vaginal tablet,TEST1114,2027-06-09,20,687.0,860.0
+117,Clotrimazole 500 mg Vaginal tablet,TEST1115,2027-06-20,54,599.0,750.0
+118,Clotrimazole 10 mg Lozenge,TEST1116,2027-07-01,9,44.0,55.0
+119,Terbinafine 250 mg Tablet,TEST1117,2027-07-12,106,593.0,740.0
+120,Terbinafine 1% Cream,TEST1118,2027-07-23,18,631.0,790.0
+121,Acyclovir 200 mg Tablet,TEST1119,2027-08-03,39,165.0,205.0
+122,Acyclovir 400 mg Tablet,TEST1120,2027-08-14,115,850.0,1060.0
+123,Acyclovir 5% Cream,TEST1121,2027-08-25,31,250.0,310.0
+124,Acyclovir 5% Ointment,TEST1122,2027-09-05,113,397.0,495.0
+125,Hydrocortisone 1% Cream,TEST1123,2027-09-16,19,670.0,840.0
+126,Hydrocortisone 1% Ointment,TEST1124,2027-09-27,112,201.0,250.0
+127,Hydrocortisone 100 mg Injection,TEST1125,2027-10-08,94,60.0,75.0
+128,Betamethasone 0.1% Cream,TEST1126,2027-10-19,102,836.0,1045.0
+129,Betamethasone 0.1% Ointment,TEST1127,2027-10-30,100,308.0,385.0
+130,Betamethasone 4 mg/mL Injection,TEST1128,2027-11-10,109,426.0,530.0
+131,Prednisolone 5 mg Tablet,TEST1129,2027-11-21,104,262.0,330.0
+132,Prednisolone 10 mg Tablet,TEST1130,2027-12-02,105,393.0,490.0
+133,Prednisolone 5 mg/5 mL Syrup,TEST1131,2027-12-13,84,263.0,330.0
+134,Dexamethasone 0.5 mg Tablet,TEST1132,2027-12-24,35,443.0,555.0
+135,Dexamethasone 4 mg Tablet,TEST1133,2028-01-04,44,826.0,1030.0
+136,Dexamethasone 4 mg/mL Injection,TEST1134,2028-01-15,107,444.0,555.0
+137,Dexamethasone 0.1% Eye drops,TEST1135,2028-01-26,14,374.0,470.0
+138,Salbutamol 100 mcg/dose Inhaler,TEST1136,2028-02-06,33,217.0,270.0
+139,Salbutamol 2.5 mg/2.5 mL Nebulizer solution,TEST1137,2028-02-17,55,146.0,180.0
+140,Salbutamol 2 mg/5 mL Syrup,TEST1138,2028-02-28,55,781.0,975.0
+141,Salbutamol 2 mg Tablet,TEST1139,2028-03-10,49,558.0,700.0
+142,Budesonide 100 mcg/dose Inhaler,TEST1140,2028-03-21,5,229.0,285.0
+143,Budesonide 200 mcg/dose Inhaler,TEST1141,2028-04-01,118,36.0,45.0
+144,Budesonide 0.5 mg/2 mL Nebulizer solution,TEST1142,2028-04-12,120,738.0,920.0
+145,Montelukast 4 mg Tablet,TEST1143,2028-04-23,8,407.0,510.0
+146,Montelukast 5 mg Tablet,TEST1144,2028-05-04,84,673.0,840.0
+147,Montelukast 10 mg Tablet,TEST1145,2028-05-15,64,772.0,965.0
+148,Montelukast 4 mg Granules,TEST1146,2028-05-26,41,717.0,895.0
+149,Theophylline 200 mg SR Tablet,TEST1147,2028-06-06,70,748.0,935.0
+150,Theophylline 300 mg SR Tablet,TEST1148,2028-06-17,85,231.0,290.0
+151,Loratadine + pseudoephedrine 5 mg/120 mg Tablet,TEST1149,2028-06-28,115,728.0,910.0
+152,Loratadine + pseudoephedrine 10 mg/240 mg Tablet,TEST1150,2028-07-09,38,665.0,830.0
+153,Dextromethorphan 10 mg/5 mL Syrup,TEST1151,2028-07-20,38,596.0,745.0
+154,Dextromethorphan 10 mg Lozenge,TEST1152,2028-07-31,100,250.0,310.0
+155,Guaifenesin 100 mg/5 mL Syrup,TEST1153,2028-08-11,41,656.0,820.0
+156,Guaifenesin 200 mg Tablet,TEST1154,2028-08-22,86,487.0,610.0
+157,Ambroxol 30 mg Tablet,TEST1155,2028-09-02,101,558.0,700.0
+158,Ambroxol 15 mg/5 mL Syrup,TEST1156,2028-09-13,36,709.0,885.0
+159,Ambroxol 7.5 mg/mL Drops,TEST1157,2028-09-24,79,714.0,890.0
+160,Acetylcysteine 600 mg Effervescent tablet,TEST1158,2028-10-05,86,130.0,160.0
+161,Acetylcysteine 200 mg Sachet,TEST1159,2028-10-16,38,265.0,330.0
+162,Acetylcysteine 10% Nebulizer solution,TEST1160,2028-10-27,50,82.0,100.0
+163,Metformin 500 mg Tablet,TEST1161,2028-11-07,58,821.0,1025.0
+164,Metformin 850 mg Tablet,TEST1162,2028-11-18,24,679.0,850.0
+165,Metformin 1000 mg Tablet,TEST1163,2028-11-29,31,541.0,675.0
+166,Metformin 500 mg XR Tablet,TEST1164,2028-12-10,0,706.0,880.0
+167,Metformin 1000 mg XR Tablet,TEST1165,2028-12-21,28,832.0,1040.0
+168,Gliclazide 40 mg Tablet,TEST1166,2029-01-01,66,858.0,1070.0
+169,Gliclazide 30 mg MR Tablet,TEST1167,2029-01-12,31,86.0,110.0
+170,Gliclazide 60 mg MR Tablet,TEST1168,2029-01-23,102,502.0,630.0
+171,Glimepiride 1 mg Tablet,TEST1169,2029-02-03,71,718.0,900.0
+172,Glimepiride 2 mg Tablet,TEST1170,2029-02-14,78,359.0,450.0
+173,Glimepiride 4 mg Tablet,TEST1171,2029-02-25,57,471.0,590.0
+174,Sitagliptin 50 mg Tablet,TEST1172,2029-03-08,57,796.0,995.0
+175,Sitagliptin 100 mg Tablet,TEST1173,2029-03-19,107,804.0,1005.0
+176,Empagliflozin 10 mg Tablet,TEST1174,2029-03-30,62,819.0,1025.0
+177,Empagliflozin 25 mg Tablet,TEST1175,2029-04-10,9,316.0,395.0
+178,Insulin regular 100 IU/mL Vial,TEST1176,2029-04-21,42,275.0,345.0
+179,Insulin regular 100 IU/mL Cartridge,TEST1177,2029-05-02,17,588.0,735.0
+180,Insulin isophane (NPH) 100 IU/mL Vial,TEST1178,2029-05-13,88,271.0,340.0
+181,Insulin isophane (NPH) 100 IU/mL Cartridge,TEST1179,2029-05-24,8,758.0,950.0
+182,Insulin glargine 100 IU/mL Pen,TEST1180,2029-06-04,69,452.0,565.0
+183,Insulin glargine 100 IU/mL Cartridge,TEST1181,2029-06-15,26,460.0,575.0
+184,Amlodipine 2.5 mg Tablet,TEST1182,2029-06-26,89,433.0,540.0
+185,Amlodipine 5 mg Tablet,TEST1183,2029-07-07,48,818.0,1020.0
+186,Amlodipine 10 mg Tablet,TEST1184,2029-07-18,38,41.0,50.0
+187,Losartan 25 mg Tablet,TEST1185,2029-07-29,68,890.0,1110.0
+188,Losartan 50 mg Tablet,TEST1186,2029-08-09,114,854.0,1070.0
+189,Losartan 100 mg Tablet,TEST1187,2029-08-20,34,534.0,670.0
+190,Valsartan 80 mg Tablet,TEST1188,2029-08-31,49,532.0,665.0
+191,Valsartan 160 mg Tablet,TEST1189,2029-09-11,102,719.0,900.0
+192,Valsartan 320 mg Tablet,TEST1190,2029-09-22,107,776.0,970.0
+193,Enalapril 2.5 mg Tablet,TEST1191,2029-10-03,68,165.0,205.0
+194,Enalapril 5 mg Tablet,TEST1192,2029-10-14,72,438.0,550.0
+195,Enalapril 10 mg Tablet,TEST1193,2029-10-25,54,120.0,150.0
+196,Lisinopril 5 mg Tablet,TEST1194,2029-11-05,6,507.0,635.0
+197,Lisinopril 10 mg Tablet,TEST1195,2029-11-16,27,423.0,530.0
+198,Lisinopril 20 mg Tablet,TEST1196,2029-11-27,97,369.0,460.0
+199,Bisoprolol 2.5 mg Tablet,TEST1197,2029-12-08,32,319.0,400.0
+200,Bisoprolol 5 mg Tablet,TEST1198,2029-12-19,95,516.0,645.0
+201,Bisoprolol 10 mg Tablet,TEST1199,2029-12-30,28,88.0,110.0
+202,Atenolol 25 mg Tablet,TEST1200,2027-01-11,5,834.0,1040.0
+203,Atenolol 50 mg Tablet,TEST1201,2027-01-22,107,288.0,360.0
+204,Atenolol 100 mg Tablet,TEST1202,2027-02-02,30,671.0,840.0
+205,Hydrochlorothiazide 12.5 mg Tablet,TEST1203,2027-02-13,14,519.0,650.0
+206,Hydrochlorothiazide 25 mg Tablet,TEST1204,2027-02-24,89,258.0,320.0
+207,Hydrochlorothiazide 50 mg Tablet,TEST1205,2027-03-07,21,820.0,1025.0
+208,Furosemide 20 mg Tablet,TEST1206,2027-03-18,91,656.0,820.0
+209,Furosemide 40 mg Tablet,TEST1207,2027-03-29,39,831.0,1040.0
+210,Furosemide 20 mg/2 mL Injection,TEST1208,2027-04-09,118,627.0,785.0
+211,Spironolactone 25 mg Tablet,TEST1209,2027-04-20,116,624.0,780.0
+212,Spironolactone 50 mg Tablet,TEST1210,2027-05-01,25,441.0,550.0
+213,Spironolactone 100 mg Tablet,TEST1211,2027-05-12,106,641.0,800.0
+214,Atorvastatin 10 mg Tablet,TEST1212,2027-05-23,98,139.0,175.0
+215,Atorvastatin 20 mg Tablet,TEST1213,2027-06-03,103,735.0,920.0
+216,Atorvastatin 40 mg Tablet,TEST1214,2027-06-14,100,850.0,1060.0
+217,Atorvastatin 80 mg Tablet,TEST1215,2027-06-25,54,390.0,490.0
+218,Rosuvastatin 5 mg Tablet,TEST1216,2027-07-06,82,105.0,130.0
+219,Rosuvastatin 10 mg Tablet,TEST1217,2027-07-17,105,47.0,60.0
+220,Rosuvastatin 20 mg Tablet,TEST1218,2027-07-28,46,143.0,180.0
+221,Rosuvastatin 40 mg Tablet,TEST1219,2027-08-08,55,759.0,950.0
+222,Clopidogrel 75 mg Tablet,TEST1220,2027-08-19,83,786.0,980.0
+223,Clopidogrel 300 mg Tablet,TEST1221,2027-08-30,99,665.0,830.0
+224,Warfarin 1 mg Tablet,TEST1222,2027-09-10,105,511.0,640.0
+225,Warfarin 2 mg Tablet,TEST1223,2027-09-21,109,309.0,385.0
+226,Warfarin 5 mg Tablet,TEST1224,2027-10-02,35,885.0,1105.0
+227,Apixaban 2.5 mg Tablet,TEST1225,2027-10-13,72,284.0,355.0
+228,Apixaban 5 mg Tablet,TEST1226,2027-10-24,43,719.0,900.0
+229,Rivaroxaban 10 mg Tablet,TEST1227,2027-11-04,23,541.0,675.0
+230,Rivaroxaban 15 mg Tablet,TEST1228,2027-11-15,102,252.0,315.0
+231,Rivaroxaban 20 mg Tablet,TEST1229,2027-11-26,112,383.0,480.0
+232,Levothyroxine 25 mcg Tablet,TEST1230,2027-12-07,71,753.0,940.0
+233,Levothyroxine 50 mcg Tablet,TEST1231,2027-12-18,10,564.0,705.0
+234,Levothyroxine 75 mcg Tablet,TEST1232,2027-12-29,62,772.0,965.0
+235,Levothyroxine 100 mcg Tablet,TEST1233,2028-01-09,88,811.0,1015.0
+236,Carbimazole 5 mg Tablet,TEST1234,2028-01-20,62,696.0,870.0
+237,Carbimazole 10 mg Tablet,TEST1235,2028-01-31,11,846.0,1060.0
+238,Carbimazole 20 mg Tablet,TEST1236,2028-02-11,88,261.0,325.0
+239,Iron + folic acid Standard Tablet,TEST1237,2028-02-22,74,348.0,435.0
+240,Iron + folic acid Standard Capsule,TEST1238,2028-03-04,67,519.0,650.0
+241,Iron + folic acid Standard Syrup,TEST1239,2028-03-15,70,470.0,590.0
+242,Ferrous sulfate 200 mg Tablet,TEST1240,2028-03-26,58,395.0,495.0
+243,Ferrous sulfate 125 mg/5 mL Syrup,TEST1241,2028-04-06,29,348.0,435.0
+244,Folic acid 400 mcg Tablet,TEST1242,2028-04-17,40,773.0,965.0
+245,Folic acid 1 mg Tablet,TEST1243,2028-04-28,97,795.0,995.0
+246,Folic acid 5 mg Tablet,TEST1244,2028-05-09,94,231.0,290.0
+247,Vitamin B complex Standard Tablet,TEST1245,2028-05-20,75,318.0,400.0
+248,Vitamin B complex Standard Capsule,TEST1246,2028-05-31,12,646.0,810.0
+249,Vitamin B complex Standard Syrup,TEST1247,2028-06-11,46,338.0,420.0
+250,Vitamin B complex Standard Injection,TEST1248,2028-06-22,90,344.0,430.0
+251,Vitamin C 500 mg Tablet,TEST1249,2028-07-03,5,164.0,205.0
+252,Vitamin C 250 mg Chewable tablet,TEST1250,2028-07-14,89,601.0,750.0
+253,Vitamin C 100 mg/5 mL Syrup,TEST1251,2028-07-25,13,688.0,860.0
+254,Vitamin D3 2000 IU Capsule,TEST1252,2028-08-05,60,622.0,780.0
+255,Vitamin D3 50000 IU Capsule,TEST1253,2028-08-16,23,486.0,610.0
+256,Vitamin D3 400 IU/mL Drops,TEST1254,2028-08-27,14,293.0,365.0
+257,Vitamin D3 200000 IU/mL Injection,TEST1255,2028-09-07,9,445.0,555.0
+258,Calcium carbonate + vitamin D3 500 mg/400 IU Tablet,TEST1256,2028-09-18,6,679.0,850.0
+259,Calcium carbonate + vitamin D3 500 mg/400 IU Chewable tablet,TEST1257,2028-09-29,38,187.0,235.0
+260,Calcium carbonate + vitamin D3 Standard Suspension,TEST1258,2028-10-10,71,289.0,360.0
+261,Zinc sulfate 20 mg Tablet,TEST1259,2028-10-21,101,655.0,820.0
+262,Zinc sulfate 20 mg/5 mL Syrup,TEST1260,2028-11-01,48,266.0,330.0
+263,Zinc sulfate 20 mg Dispersible tablet,TEST1261,2028-11-12,110,488.0,610.0
+264,Multivitamin Adult Tablet,TEST1262,2028-11-23,72,474.0,590.0
+265,Multivitamin Adult Capsule,TEST1263,2028-12-04,94,96.0,120.0
+266,Multivitamin Children Syrup,TEST1264,2028-12-15,80,816.0,1020.0
+267,Multivitamin Infant Drops,TEST1265,2028-12-26,10,305.0,380.0
+268,B-complex + B12 Standard Tablet,TEST1266,2029-01-06,70,280.0,350.0
+269,B-complex + B12 Standard Injection,TEST1267,2029-01-17,52,195.0,245.0
+270,Methylcobalamin 500 mcg Tablet,TEST1268,2029-01-28,60,740.0,925.0
+271,Methylcobalamin 1500 mcg Tablet,TEST1269,2029-02-08,36,68.0,85.0
+272,Methylcobalamin 500 mcg/mL Injection,TEST1270,2029-02-19,9,754.0,940.0
+273,Gabapentin 100 mg Capsule,TEST1271,2029-03-02,75,305.0,380.0
+274,Gabapentin 300 mg Capsule,TEST1272,2029-03-13,69,470.0,590.0
+275,Gabapentin 400 mg Capsule,TEST1273,2029-03-24,116,698.0,870.0
+276,Pregabalin 25 mg Capsule,TEST1274,2029-04-04,9,881.0,1100.0
+277,Pregabalin 50 mg Capsule,TEST1275,2029-04-15,76,204.0,255.0
+278,Pregabalin 75 mg Capsule,TEST1276,2029-04-26,15,330.0,410.0
+279,Pregabalin 150 mg Capsule,TEST1277,2029-05-07,89,740.0,925.0
+280,Amitriptyline 10 mg Tablet,TEST1278,2029-05-18,69,313.0,390.0
+281,Amitriptyline 25 mg Tablet,TEST1279,2029-05-29,76,483.0,605.0
+282,Amitriptyline 50 mg Tablet,TEST1280,2029-06-09,41,477.0,595.0
+283,Sertraline 25 mg Tablet,TEST1281,2029-06-20,11,291.0,365.0
+284,Sertraline 50 mg Tablet,TEST1282,2029-07-01,75,725.0,905.0
+285,Sertraline 100 mg Tablet,TEST1283,2029-07-12,105,818.0,1020.0
+286,Escitalopram 5 mg Tablet,TEST1284,2029-07-23,97,625.0,780.0
+287,Escitalopram 10 mg Tablet,TEST1285,2029-08-03,83,516.0,645.0
+288,Escitalopram 20 mg Tablet,TEST1286,2029-08-14,74,319.0,400.0
+289,Fluoxetine 20 mg Capsule,TEST1287,2029-08-25,11,685.0,855.0
+290,Fluoxetine 20 mg Tablet,TEST1288,2029-09-05,42,391.0,490.0
+291,Diazepam 2 mg Tablet,TEST1289,2029-09-16,109,721.0,900.0
+292,Diazepam 5 mg Tablet,TEST1290,2029-09-27,88,372.0,465.0
+293,Diazepam 10 mg/2 mL Injection,TEST1291,2029-10-08,120,330.0,410.0
+294,Clonazepam 0.5 mg Tablet,TEST1292,2029-10-19,4,868.0,1085.0
+295,Clonazepam 1 mg Tablet,TEST1293,2029-10-30,32,125.0,155.0
+296,Clonazepam 2 mg Tablet,TEST1294,2029-11-10,110,153.0,190.0
+297,Levetiracetam 250 mg Tablet,TEST1295,2029-11-21,84,879.0,1100.0
+298,Levetiracetam 500 mg Tablet,TEST1296,2029-12-02,6,508.0,635.0
+299,Levetiracetam 100 mg/mL Oral solution,TEST1297,2029-12-13,79,565.0,705.0
+300,Sodium valproate 200 mg Tablet,TEST1298,2029-12-24,97,675.0,845.0
+301,Sodium valproate 500 mg EC Tablet,TEST1299,2027-01-05,70,243.0,305.0
+302,Sodium valproate 200 mg/5 mL Syrup,TEST1300,2027-01-16,112,329.0,410.0
+303,Carbamazepine 200 mg Tablet,TEST1301,2027-01-27,80,159.0,200.0
+304,Carbamazepine 400 mg CR Tablet,TEST1302,2027-02-07,90,853.0,1065.0
+305,Carbamazepine 100 mg/5 mL Suspension,TEST1303,2027-02-18,1,353.0,440.0
+306,Allopurinol 100 mg Tablet,TEST1304,2027-03-01,28,452.0,565.0
+307,Allopurinol 300 mg Tablet,TEST1305,2027-03-12,82,507.0,635.0
+308,Colchicine 0.5 mg Tablet,TEST1306,2027-03-23,37,545.0,680.0
+309,Colchicine 0.6 mg Tablet,TEST1307,2027-04-03,53,757.0,945.0
+310,Tamsulosin 0.4 mg Capsule,TEST1308,2027-04-14,58,518.0,650.0
+311,Tamsulosin 0.4 mg MR Tablet,TEST1309,2027-04-25,24,183.0,230.0
+312,Finasteride 5 mg Tablet,TEST1310,2027-05-06,112,555.0,695.0
+313,Finasteride 1 mg Tablet,TEST1311,2027-05-17,98,106.0,130.0
+314,Sildenafil 25 mg Tablet,TEST1312,2027-05-28,34,383.0,480.0
+315,Sildenafil 50 mg Tablet,TEST1313,2027-06-08,38,324.0,405.0
+316,Sildenafil 100 mg Tablet,TEST1314,2027-06-19,62,628.0,785.0
+317,Oral contraceptive combination 21-day pack Tablet,TEST1315,2027-06-30,61,492.0,615.0
+318,Oral contraceptive combination 28-day pack Tablet,TEST1316,2027-07-11,97,375.0,470.0
+319,Levonorgestrel 1.5 mg Tablet,TEST1317,2027-07-22,119,421.0,525.0
+320,Medroxyprogesterone acetate 5 mg Tablet,TEST1318,2027-08-02,30,228.0,285.0
+321,Medroxyprogesterone acetate 150 mg/mL Injection,TEST1319,2027-08-13,109,427.0,535.0
+322,Tranexamic acid 500 mg Tablet,TEST1320,2027-08-24,95,79.0,100.0
+323,Tranexamic acid 500 mg/5 mL Injection,TEST1321,2027-09-04,49,757.0,945.0
+324,Misoprostol 200 mcg Tablet,TEST1322,2027-09-15,16,542.0,680.0
+325,Chlorhexidine 0.05% Solution,TEST1323,2027-09-26,111,639.0,800.0
+326,Chlorhexidine 0.2% Mouthwash,TEST1324,2027-10-07,12,900.0,1125.0
+327,Chlorhexidine 4% Skin cleanser,TEST1325,2027-10-18,92,502.0,630.0
+328,Povidone iodine 10% Solution,TEST1326,2027-10-29,19,454.0,570.0
+329,Povidone iodine 10% Ointment,TEST1327,2027-11-09,43,515.0,645.0
+330,Povidone iodine 1% Gargle,TEST1328,2027-11-20,83,744.0,930.0
+331,Hydrogen peroxide 3% Solution,TEST1329,2027-12-01,109,371.0,465.0
+332,Mupirocin 2% Ointment,TEST1330,2027-12-12,80,424.0,530.0
+333,Mupirocin 2% Cream,TEST1331,2027-12-23,79,589.0,735.0
+334,Fusidic acid 2% Cream,TEST1332,2028-01-03,87,275.0,345.0
+335,Fusidic acid 2% Ointment,TEST1333,2028-01-14,11,267.0,335.0
+336,Fusidic acid 1% Eye drops,TEST1334,2028-01-25,90,135.0,170.0
+337,Silver sulfadiazine 1% Cream,TEST1335,2028-02-05,88,489.0,610.0
+338,Calamine lotion Standard Lotion,TEST1336,2028-02-16,41,64.0,80.0
+339,Zinc oxide 10% Cream,TEST1337,2028-02-27,47,335.0,420.0
+340,Zinc oxide 20% Ointment,TEST1338,2028-03-09,67,184.0,230.0
+341,Lidocaine 2% Gel,TEST1339,2028-03-20,101,614.0,770.0
+342,Lidocaine 10% Spray,TEST1340,2028-03-31,10,209.0,260.0
+343,Lidocaine 1% Injection,TEST1341,2028-04-11,87,426.0,530.0
+344,Lidocaine 2% Injection,TEST1342,2028-04-22,18,544.0,680.0
+345,Artificial tears 0.5% Eye drops,TEST1343,2028-05-03,32,507.0,635.0
+346,Artificial tears 0.1% Eye drops,TEST1344,2028-05-14,1,296.0,370.0
+347,Timolol 0.25% Eye drops,TEST1345,2028-05-25,69,329.0,410.0
+348,Timolol 0.5% Eye drops,TEST1346,2028-06-05,120,110.0,140.0
+349,Latanoprost 0.005% Eye drops,TEST1347,2028-06-16,81,636.0,795.0
+350,Tropicamide 0.5% Eye drops,TEST1348,2028-06-27,58,741.0,925.0
+351,Tropicamide 1% Eye drops,TEST1349,2028-07-08,109,238.0,300.0
+352,Ofloxacin ophthalmic 0.3% Eye drops,TEST1350,2028-07-19,48,144.0,180.0
+353,Ofloxacin ophthalmic 0.3% Eye ointment,TEST1351,2028-07-30,37,402.0,500.0
+354,Carboxymethylcellulose 0.5% Eye drops,TEST1352,2028-08-10,50,57.0,70.0
+355,Carboxymethylcellulose 1% Eye drops,TEST1353,2028-08-21,110,43.0,55.0
+356,Miconazole 2% Cream,TEST1354,2028-09-01,63,655.0,820.0
+357,Miconazole 2% Oral gel,TEST1355,2028-09-12,77,829.0,1035.0
+358,Miconazole 2% Powder,TEST1356,2028-09-23,24,259.0,325.0
+359,Ketoconazole 2% Shampoo,TEST1357,2028-10-04,96,291.0,365.0
+360,Ketoconazole 2% Cream,TEST1358,2028-10-15,115,678.0,850.0
+361,Ketoconazole 200 mg Tablet,TEST1359,2028-10-26,4,351.0,440.0
+362,Permethrin 5% Cream,TEST1360,2028-11-06,16,408.0,510.0
+363,Permethrin 1% Lotion,TEST1361,2028-11-17,95,337.0,420.0
+364,Benzyl benzoate 25% Lotion,TEST1362,2028-11-28,16,214.0,270.0
+365,Minoxidil 2% Topical solution,TEST1363,2028-12-09,64,409.0,510.0
+366,Minoxidil 5% Topical solution,TEST1364,2028-12-20,32,885.0,1105.0
+367,Isotretinoin 10 mg Capsule,TEST1365,2028-12-31,95,860.0,1075.0
+368,Isotretinoin 20 mg Capsule,TEST1366,2029-01-11,59,858.0,1070.0
+369,Tretinoin 0.025% Cream,TEST1367,2029-01-22,110,179.0,225.0
+370,Tretinoin 0.05% Cream,TEST1368,2029-02-02,46,858.0,1070.0
+371,Adapalene 0.1% Gel,TEST1369,2029-02-13,1,844.0,1055.0
+372,Adapalene 0.1% Cream,TEST1370,2029-02-24,58,584.0,730.0
+373,Benzoyl peroxide 2.5% Gel,TEST1371,2029-03-07,86,723.0,905.0
+374,Benzoyl peroxide 5% Gel,TEST1372,2029-03-18,105,633.0,790.0
+375,Benzoyl peroxide 10% Gel,TEST1373,2029-03-29,29,145.0,180.0
+376,Ketorolac 10 mg Tablet,TEST1374,2029-04-09,113,60.0,75.0
+377,Ketorolac 30 mg/mL Injection,TEST1375,2029-04-20,28,370.0,460.0
+378,Ketorolac 0.5% Eye drops,TEST1376,2029-05-01,116,685.0,855.0
+379,Tramadol 50 mg Capsule,TEST1377,2029-05-12,14,699.0,875.0
+380,Tramadol 100 mg Tablet,TEST1378,2029-05-23,38,81.0,100.0
+381,Tramadol 50 mg/mL Injection,TEST1379,2029-06-03,30,153.0,190.0
+382,Morphine 10 mg/mL Injection,TEST1380,2029-06-14,58,173.0,215.0
+383,Morphine 10 mg/5 mL Oral solution,TEST1381,2029-06-25,89,721.0,900.0
+384,Fentanyl 50 mcg/mL Injection,TEST1382,2029-07-06,95,464.0,580.0
+385,Fentanyl 25 mcg/hour Patch,TEST1383,2029-07-17,12,459.0,575.0
+386,Ketamine 50 mg/mL Injection,TEST1384,2029-07-28,120,665.0,830.0
+387,Propofol 10 mg/mL Injection,TEST1385,2029-08-08,47,68.0,85.0
+388,Lignocaine + adrenaline 2% with adrenaline Injection,TEST1386,2029-08-19,30,489.0,610.0
+389,Adrenaline (epinephrine) 1 mg/mL Injection,TEST1387,2029-08-30,47,136.0,170.0
+390,Atropine 0.6 mg/mL Injection,TEST1388,2029-09-10,7,695.0,870.0
+391,Atropine 1% Eye drops,TEST1389,2029-09-21,15,317.0,395.0
+392,Naloxone 0.4 mg/mL Injection,TEST1390,2029-10-02,27,128.0,160.0
+393,Flumazenil 0.1 mg/mL Injection,TEST1391,2029-10-13,100,56.0,70.0
+394,Vitamin K1 10 mg/mL Injection,TEST1392,2029-10-24,100,284.0,355.0
+395,Calcium gluconate 10% Injection,TEST1393,2029-11-04,106,245.0,305.0
+396,Magnesium sulfate 50% Injection,TEST1394,2029-11-15,27,247.0,310.0
+397,Potassium chloride 2 mEq/mL Injection concentrate,TEST1395,2029-11-26,100,371.0,465.0
+398,Potassium chloride 10% Oral solution,TEST1396,2029-12-07,109,37.0,45.0
+399,Sodium chloride 0.9% 500 mL IV infusion,TEST1397,2029-12-18,32,168.0,210.0
+400,Sodium chloride 0.9% 1000 mL IV infusion,TEST1398,2029-12-29,110,147.0,185.0
+401,Sodium chloride 0.65% Nasal spray,TEST1399,2027-01-10,45,169.0,210.0
+402,Dextrose 5% 500 mL IV infusion,TEST1400,2027-01-21,2,637.0,795.0
+403,Dextrose 10% 500 mL IV infusion,TEST1401,2027-02-01,16,306.0,380.0
+404,Dextrose 25% 100 mL IV infusion,TEST1402,2027-02-12,95,573.0,715.0
+405,Ringer's lactate 500 mL IV infusion,TEST1403,2027-02-23,99,522.0,650.0
+406,Ringer's lactate 1000 mL IV infusion,TEST1404,2027-03-06,13,560.0,700.0
+407,Mannitol 20% 500 mL IV infusion,TEST1405,2027-03-17,78,550.0,690.0
+408,Heparin sodium 5000 IU/mL Injection,TEST1406,2027-03-28,66,779.0,975.0
+409,Enoxaparin 40 mg/0.4 mL Prefilled syringe,TEST1407,2027-04-08,3,504.0,630.0
+410,Enoxaparin 60 mg/0.6 mL Prefilled syringe,TEST1408,2027-04-19,54,525.0,655.0
+411,Enoxaparin 80 mg/0.8 mL Prefilled syringe,TEST1409,2027-04-30,116,537.0,670.0
+412,Ceftriaxone 500 mg Injection,TEST1410,2027-05-11,41,110.0,140.0
+413,Ceftriaxone 1 g Injection,TEST1411,2027-05-22,16,186.0,230.0
+414,Ceftriaxone 2 g Injection,TEST1412,2027-06-02,74,674.0,840.0
+415,Piperacillin + tazobactam 2.25 g Injection,TEST1413,2027-06-13,48,764.0,955.0
+416,Piperacillin + tazobactam 4.5 g Injection,TEST1414,2027-06-24,58,578.0,720.0
+417,Meropenem 500 mg Injection,TEST1415,2027-07-05,12,654.0,820.0
+418,Meropenem 1 g Injection,TEST1416,2027-07-16,112,705.0,880.0
+419,Vancomycin 500 mg Injection,TEST1417,2027-07-27,55,773.0,965.0
+420,Vancomycin 1 g Injection,TEST1418,2027-08-07,43,268.0,335.0
+421,Linezolid 600 mg Tablet,TEST1419,2027-08-18,93,443.0,555.0
+422,Linezolid 600 mg/300 mL IV infusion,TEST1420,2027-08-29,40,355.0,445.0
+423,Clindamycin 150 mg Capsule,TEST1421,2027-09-09,87,418.0,520.0
+424,Clindamycin 300 mg Capsule,TEST1422,2027-09-20,106,103.0,130.0
+425,Clindamycin 600 mg/4 mL Injection,TEST1423,2027-10-01,12,130.0,160.0
+426,Gentamicin 40 mg/mL Injection,TEST1424,2027-10-12,71,866.0,1080.0
+427,Gentamicin 0.3% Eye drops,TEST1425,2027-10-23,71,635.0,795.0
+428,Amikacin 100 mg/2 mL Injection,TEST1426,2027-11-03,52,721.0,900.0
+429,Amikacin 500 mg/2 mL Injection,TEST1427,2027-11-14,111,716.0,895.0
+430,Artemether + lumefantrine 20 mg/120 mg Tablet,TEST1428,2027-11-25,39,329.0,410.0
+431,Chloroquine 250 mg Tablet,TEST1429,2027-12-06,64,141.0,175.0
+432,Chloroquine 50 mg/5 mL Syrup,TEST1430,2027-12-17,61,193.0,240.0
+433,Albendazole 400 mg Tablet,TEST1431,2027-12-28,99,145.0,180.0
+434,Albendazole 200 mg/5 mL Suspension,TEST1432,2028-01-08,94,411.0,515.0
+435,Mebendazole 100 mg Tablet,TEST1433,2028-01-19,103,622.0,780.0
+436,Mebendazole 500 mg Tablet,TEST1434,2028-01-30,98,900.0,1125.0
+437,Mebendazole 100 mg/5 mL Suspension,TEST1435,2028-02-10,82,663.0,830.0
+438,Ivermectin 3 mg Tablet,TEST1436,2028-02-21,118,61.0,75.0
+439,Ivermectin 6 mg Tablet,TEST1437,2028-03-03,34,64.0,80.0
+440,Ivermectin 0.5% Lotion,TEST1438,2028-03-14,0,382.0,480.0
+441,ORS + zinc combo ORS sachet + zinc tablets Kit,TEST1439,2028-03-25,84,181.0,225.0
+442,Dicyclomine 10 mg Tablet,TEST1440,2028-04-05,94,106.0,130.0
+443,Dicyclomine 10 mg/5 mL Syrup,TEST1441,2028-04-16,67,128.0,160.0
+444,Dicyclomine 10 mg/mL Injection,TEST1442,2028-04-27,58,420.0,525.0
+445,Mebeverine 135 mg Tablet,TEST1443,2028-05-08,39,196.0,245.0
+446,Mebeverine 200 mg MR Capsule,TEST1444,2028-05-19,76,830.0,1040.0
+447,Hyoscine butylbromide 10 mg Tablet,TEST1445,2028-05-30,20,88.0,110.0
+448,Hyoscine butylbromide 20 mg/mL Injection,TEST1446,2028-06-10,10,85.0,105.0
+449,Ursodeoxycholic acid 250 mg Capsule,TEST1447,2028-06-21,54,488.0,610.0
+450,Ursodeoxycholic acid 500 mg Tablet,TEST1448,2028-07-02,53,656.0,820.0
+451,Silymarin 140 mg Tablet,TEST1449,2028-07-13,14,255.0,320.0
+452,Silymarin Standard Capsule,TEST1450,2028-07-24,36,475.0,595.0
+453,Sodium bicarbonate 500 mg Tablet,TEST1451,2028-08-04,85,533.0,665.0
+454,Sodium bicarbonate Standard Powder,TEST1452,2028-08-15,50,81.0,100.0
+455,Aluminium hydroxide + magnesium hydroxide Standard Chewable tablet,TEST1453,2028-08-26,26,91.0,115.0
+456,Aluminium hydroxide + magnesium hydroxide Standard Suspension,TEST1454,2028-09-06,97,251.0,315.0
+457,Simethicone 40 mg/0.6 mL Drops,TEST1455,2028-09-17,15,331.0,415.0
+458,Simethicone 80 mg Tablet,TEST1456,2028-09-28,55,544.0,680.0
+459,Simethicone 40 mg/5 mL Suspension,TEST1457,2028-10-09,68,167.0,210.0
+460,Dimenhydrinate 50 mg Tablet,TEST1458,2028-10-20,106,547.0,685.0
+461,Dimenhydrinate 50 mg/mL Injection,TEST1459,2028-10-31,110,108.0,135.0
+462,Meclizine 25 mg Tablet,TEST1460,2028-11-11,58,481.0,600.0
+463,Meclizine 50 mg Tablet,TEST1461,2028-11-22,54,355.0,445.0
+464,Betahistine 8 mg Tablet,TEST1462,2028-12-03,81,449.0,560.0
+465,Betahistine 16 mg Tablet,TEST1463,2028-12-14,51,331.0,415.0
+466,Betahistine 24 mg Tablet,TEST1464,2028-12-25,102,367.0,460.0
+467,Propranolol 10 mg Tablet,TEST1465,2029-01-05,117,506.0,630.0
+468,Propranolol 40 mg Tablet,TEST1466,2029-01-16,108,125.0,155.0
+469,Propranolol 80 mg Tablet,TEST1467,2029-01-27,75,284.0,355.0
+470,Diltiazem 30 mg Tablet,TEST1468,2029-02-07,50,571.0,715.0
+471,Diltiazem 90 mg SR Capsule,TEST1469,2029-02-18,28,798.0,1000.0
+472,Diltiazem 120 mg SR Tablet,TEST1470,2029-03-01,9,832.0,1040.0
+473,Isosorbide mononitrate 20 mg Tablet,TEST1471,2029-03-12,67,683.0,855.0
+474,Isosorbide mononitrate 60 mg SR Tablet,TEST1472,2029-03-23,44,233.0,290.0
+475,Nitroglycerin 0.5 mg Sublingual tablet,TEST1473,2029-04-03,18,276.0,345.0
+476,Nitroglycerin 0.4 mg/dose Spray,TEST1474,2029-04-14,77,237.0,295.0
+477,Nitroglycerin 5 mg/24 h Patch,TEST1475,2029-04-25,9,813.0,1015.0
+478,Amiodarone 200 mg Tablet,TEST1476,2029-05-06,63,826.0,1030.0
+479,Amiodarone 150 mg/3 mL Injection,TEST1477,2029-05-17,97,807.0,1010.0
+480,Digoxin 0.125 mg Tablet,TEST1478,2029-05-28,118,494.0,620.0
+481,Digoxin 0.25 mg Tablet,TEST1479,2029-06-08,79,693.0,865.0
+482,Digoxin 0.25 mg/mL Injection,TEST1480,2029-06-19,19,677.0,845.0
+483,Sacubitril + valsartan 24/26 mg Tablet,TEST1481,2029-06-30,56,104.0,130.0
+484,Sacubitril + valsartan 49/51 mg Tablet,TEST1482,2029-07-11,75,850.0,1060.0
+485,Sacubitril + valsartan 97/103 mg Tablet,TEST1483,2029-07-22,9,395.0,495.0
+486,Dapagliflozin 5 mg Tablet,TEST1484,2029-08-02,4,507.0,635.0
+487,Dapagliflozin 10 mg Tablet,TEST1485,2029-08-13,9,412.0,515.0
+488,Dutasteride 0.5 mg Capsule,TEST1486,2029-08-24,64,664.0,830.0
+489,Oxybutynin 5 mg Tablet,TEST1487,2029-09-04,70,508.0,635.0
+490,Oxybutynin 10 mg ER Tablet,TEST1488,2029-09-15,83,495.0,620.0
+491,Solifenacin 5 mg Tablet,TEST1489,2029-09-26,60,364.0,455.0
+492,Solifenacin 10 mg Tablet,TEST1490,2029-10-07,57,189.0,235.0
+493,Desloratadine 5 mg Tablet,TEST1491,2029-10-18,91,865.0,1080.0
+494,Desloratadine 2.5 mg/5 mL Syrup,TEST1492,2029-10-29,22,551.0,690.0
+495,Levocetirizine 5 mg Tablet,TEST1493,2029-11-09,56,288.0,360.0
+496,Levocetirizine 2.5 mg/5 mL Syrup,TEST1494,2029-11-20,78,571.0,715.0
+497,Fexofenadine + montelukast 120 mg/10 mg Tablet,TEST1495,2029-12-01,117,407.0,510.0
+498,Fexofenadine + montelukast 180 mg/10 mg Tablet,TEST1496,2029-12-12,99,431.0,540.0
+499,Choline salicylate oral gel 8.7% Oral gel,TEST1497,2029-12-23,6,730.0,910.0
+500,Benzydamine 0.15% Mouthwash,TEST1498,2027-01-04,12,102.0,130.0
+501,Benzydamine 0.15% Spray,TEST1499,2027-01-15,36,729.0,910.0
+502,Fluoride toothpaste 1450 ppm fluoride Toothpaste,TEST1500,2027-01-26,116,776.0,970.0
+503,Pediatric multivitamin Standard Syrup,TEST1501,2027-02-06,10,188.0,235.0
+504,Pediatric multivitamin Standard Drops,TEST1502,2027-02-17,117,714.0,890.0
+505,Dextromethorphan + guaifenesin Standard Syrup,TEST1503,2027-02-28,89,352.0,440.0
+506,Paracetamol + caffeine 500 mg/65 mg Tablet,TEST1504,2027-03-11,90,167.0,210.0
+507,Calcium + magnesium + zinc Standard Tablet,TEST1505,2027-03-22,43,352.0,440.0
+508,Electrolyte powder Standard Sachet,TEST1506,2027-04-02,85,867.0,1085.0
+509,Glucose powder 500 g Powder,TEST1507,2027-04-13,85,130.0,160.0
+510,Petroleum jelly 25 g Jelly,TEST1508,2027-04-24,2,2132.0,2665.0
+511,Petroleum jelly 50 g Jelly,TEST1509,2027-05-05,27,1315.0,1645.0
+512,Petroleum jelly 100 g Jelly,TEST1510,2027-05-16,28,2041.0,2550.0
+513,Glycerin 100 mL Liquid,TEST1511,2027-05-27,37,684.0,855.0
+514,Glycerin 200 mL Liquid,TEST1512,2027-06-07,106,2129.0,2660.0
+515,Lip balm 4 g Balm,TEST1513,2027-06-18,43,204.0,255.0
+516,Lip balm 10 g Balm,TEST1514,2027-06-29,48,586.0,730.0
+517,Sunscreen SPF 30 Cream,TEST1515,2027-07-10,106,714.0,890.0
+518,Sunscreen SPF 50 Lotion,TEST1516,2027-07-21,56,728.0,910.0
+519,Moisturizing lotion 100 mL Lotion,TEST1517,2027-08-01,86,1732.0,2165.0
+520,Moisturizing lotion 200 mL Lotion,TEST1518,2027-08-12,36,1869.0,2335.0
+521,Baby shampoo 100 mL Shampoo,TEST1519,2027-08-23,30,1008.0,1260.0
+522,Baby shampoo 200 mL Shampoo,TEST1520,2027-09-03,47,1971.0,2465.0
+523,Baby lotion 100 mL Lotion,TEST1521,2027-09-14,98,1854.0,2320.0
+524,Baby lotion 200 mL Lotion,TEST1522,2027-09-25,67,1614.0,2020.0
+525,Antacid chewable Standard Chewable tablet,TEST1523,2027-10-06,102,713.0,890.0
+526,Antacid chewable 200 mL Suspension,TEST1524,2027-10-17,6,616.0,770.0
+527,Throat lozenges Menthol Lozenge,TEST1525,2027-10-28,119,1570.0,1960.0
+528,Throat lozenges Honey lemon Lozenge,TEST1526,2027-11-08,36,2163.0,2705.0
+529,Throat lozenges Herbal Lozenge,TEST1527,2027-11-19,57,706.0,880.0
+530,Saline nasal drops 0.9% 10 mL Drops,TEST1528,2027-11-30,11,653.0,815.0
+531,Saline nasal drops 0.9% 20 mL Spray,TEST1529,2027-12-11,119,1897.0,2370.0
+532,Ear wax softener 10 mL Drops,TEST1530,2027-12-22,50,1749.0,2185.0
+533,Ear drops glycerin 10 mL Drops,TEST1531,2028-01-02,49,1581.0,1975.0
+534,Eye lubricant gel 10 g Gel,TEST1532,2028-01-13,3,1585.0,1980.0
+535,Oral rehydration drink 200 mL Ready-to-drink,TEST1533,2028-01-24,83,455.0,570.0
+536,Oral rehydration drink 500 mL Ready-to-drink,TEST1534,2028-02-04,4,648.0,810.0
+537,Protein supplement powder 400 g Powder,TEST1535,2028-02-15,106,1985.0,2480.0
+538,Protein supplement powder 900 g Powder,TEST1536,2028-02-26,78,1971.0,2465.0
+539,Oral nutritional supplement 200 mL Ready-to-drink,TEST1537,2028-03-08,32,374.0,470.0
+540,Oral nutritional supplement 400 g Powder,TEST1538,2028-03-19,120,662.0,830.0
+541,Adult multivitamin with minerals Standard Tablet,TEST1539,2028-03-30,4,2211.0,2765.0
+542,Adult multivitamin with minerals Standard Capsule,TEST1540,2028-04-10,15,1023.0,1280.0
+543,Vitamin E 200 IU Capsule,TEST1541,2028-04-21,81,1026.0,1280.0
+544,Vitamin E 400 IU Capsule,TEST1542,2028-05-02,14,1922.0,2400.0
+545,Omega-3 1000 mg Softgel,TEST1543,2028-05-13,2,2494.0,3120.0
+546,Omega-3 1200 mg Softgel,TEST1544,2028-05-24,91,2405.0,3005.0
+547,Psyllium husk 100 g Powder,TEST1545,2028-06-04,0,1243.0,1555.0
+548,Psyllium husk 200 g Powder,TEST1546,2028-06-15,73,1495.0,1870.0
+549,Lactase enzyme Standard Tablet,TEST1547,2028-06-26,85,817.0,1020.0
+550,Activated charcoal 250 mg Capsule,TEST1548,2028-07-07,3,2194.0,2740.0
+551,Activated charcoal 250 mg Tablet,TEST1549,2028-07-18,97,2278.0,2850.0
+552,Oral thermometer Standard Digital,TEST1550,2028-07-29,49,2319.0,2900.0
+553,Infrared thermometer Standard Non-contact,TEST1551,2028-08-09,49,228.0,285.0
+554,Glucometer Standard Meter kit,TEST1552,2028-08-20,2,1088.0,1360.0
+555,Glucometer control solution Standard Solution,TEST1553,2028-08-31,30,326.0,410.0
+556,Nebulizer machine Standard Compressor,TEST1554,2028-09-11,96,2433.0,3040.0
+557,Digital pulse oximeter Standard Finger type,TEST1555,2028-09-22,45,596.0,745.0
+558,Peak flow mouthpiece Pack of 10 Mouthpiece,TEST1556,2028-10-03,22,1436.0,1795.0
+559,Medical face shield Piece Reusable,TEST1557,2028-10-14,23,2010.0,2510.0
+560,Safety goggles Piece Reusable,TEST1558,2028-10-25,99,308.0,385.0
+561,Disposable shoe covers Pack of 50 Pack,TEST1559,2028-11-05,25,201.0,250.0
+562,Disposable bed sheet Pack of 10 Sheet,TEST1560,2028-11-16,40,867.0,1085.0
+563,Examination couch paper 50 cm x 50 m Roll,TEST1561,2028-11-27,104,2161.0,2700.0
+564,Patient wristband Standard Pack of 100,TEST1562,2028-12-08,4,1989.0,2485.0
+565,Medical waste bin liner Standard Pack of 50,TEST1563,2028-12-19,110,1221.0,1525.0
+566,Sterile water for injection 10 mL Ampoule,TEST1564,2028-12-30,15,1409.0,1760.0
+567,Normal saline flush 10 mL Prefilled syringe,TEST1565,2029-01-10,95,1839.0,2300.0
+568,Alcohol-based hand rub 1 L Bottle,TEST1566,2029-01-21,23,1633.0,2040.0
+569,Chlorine disinfectant tablets Standard Tub,TEST1567,2029-02-01,118,2087.0,2610.0
+570,Medical-grade adhesive tape 2.5 cm Roll,TEST1568,2029-02-12,93,1142.0,1430.0
+571,Medical-grade adhesive tape 5 cm Roll,TEST1569,2029-02-23,77,373.0,465.0
+572,Elastic gauze bandage 5 cm Roll,TEST1570,2029-03-06,41,2284.0,2855.0
+573,Elastic gauze bandage 7.5 cm Roll,TEST1571,2029-03-17,84,377.0,470.0
+574,Elastic gauze bandage 10 cm Roll,TEST1572,2029-03-28,77,1305.0,1630.0
+575,Sterile cotton swab Standard Pack of 100,TEST1573,2029-04-08,56,732.0,915.0
+576,Disposable scalp vein set 23G Piece,TEST1574,2029-04-19,93,1881.0,2350.0
+577,Disposable scalp vein set 25G Piece,TEST1575,2029-04-30,81,1831.0,2290.0
+578,Blood lancet pen Standard Device,TEST1576,2029-05-11,81,357.0,445.0
+579,Urine drainage catheter Various sizes Piece,TEST1577,2029-05-22,102,1538.0,1920.0
+580,Oxygen nasal cannula adult Standard Piece,TEST1578,2029-06-02,108,177.0,220.0
+581,Oxygen nasal cannula child Standard Piece,TEST1579,2029-06-13,16,1844.0,2305.0
+582,Surgical scrub brush Sterile Piece,TEST1580,2029-06-24,46,1016.0,1270.0
+583,Sterile drape sheet Standard Piece,TEST1581,2029-07-05,4,1618.0,2020.0
+584,Disposable examination gloves,TEST1582,2029-07-16,86,350.0,550.0
+585,Sterile surgical gloves,TEST1583,2029-07-27,47,80.0,130.0
+586,Surgical mask,TEST1584,2029-08-07,73,250.0,450.0
+587,N95 respirator,TEST1585,2029-08-18,46,90.0,180.0
+588,Disposable cap,TEST1586,2029-08-29,83,250.0,400.0
+589,Shoe covers,TEST1587,2029-09-09,14,300.0,500.0
+590,Alcohol swabs,TEST1588,2029-09-20,23,250.0,400.0
+591,Cotton wool,TEST1589,2029-10-01,49,450.0,700.0
+592,Cotton roll,TEST1590,2029-10-12,33,80.0,150.0
+593,Gauze swab sterile,TEST1591,2029-10-23,57,70.0,130.0
+594,Gauze roll,TEST1592,2029-11-03,36,80.0,160.0
+595,Crepe bandage,TEST1593,2029-11-14,15,120.0,250.0
+596,Elastic adhesive bandage,TEST1594,2029-11-25,57,150.0,300.0
+597,Microporous surgical tape,TEST1595,2029-12-06,56,70.0,150.0
+598,Zinc oxide tape,TEST1596,2029-12-17,108,150.0,300.0
+599,Adhesive dressing strip,TEST1597,2029-12-28,44,150.0,300.0
+600,Sterile wound dressing,TEST1598,2027-01-09,69,50.0,120.0
+601,Absorbent dressing pad,TEST1599,2027-01-20,146,100.0,250.0
+602,Disposable syringe 1 mL,TEST1600,2027-01-31,90,700.0,1100.0
+603,Disposable syringe 3 mL,TEST1601,2027-02-11,65,800.0,1200.0
+604,Disposable syringe 5 mL,TEST1602,2027-02-22,25,900.0,1400.0
+605,Disposable syringe 10 mL,TEST1603,2027-03-05,101,1500.0,2200.0
+606,Disposable syringe 20 mL,TEST1604,2027-03-16,46,1200.0,1800.0
+607,Insulin syringe,TEST1605,2027-03-27,47,1000.0,1600.0
+608,IV cannula 18G,TEST1606,2027-04-07,16,45.0,90.0
+609,IV cannula 20G,TEST1607,2027-04-18,8,45.0,90.0
+610,IV cannula 22G,TEST1608,2027-04-29,91,45.0,90.0
+611,IV cannula 24G,TEST1609,2027-05-10,52,45.0,90.0
+612,IV infusion set,TEST1610,2027-05-21,9,90.0,160.0
+613,Blood transfusion set,TEST1611,2027-06-01,82,150.0,260.0
+614,Three-way stopcock,TEST1612,2027-06-12,59,100.0,180.0
+615,Extension line,TEST1613,2027-06-23,16,80.0,150.0
+616,Urine drainage bag,TEST1614,2027-07-04,75,120.0,220.0
+617,Foley catheter 14 Fr,TEST1615,2027-07-15,55,150.0,280.0
+618,Foley catheter 16 Fr,TEST1616,2027-07-26,106,150.0,280.0
+619,Foley catheter 18 Fr,TEST1617,2027-08-06,19,150.0,280.0
+620,Nasogastric tube,TEST1618,2027-08-17,20,100.0,200.0
+621,Oxygen mask adult,TEST1619,2027-08-28,28,100.0,180.0
+622,Oxygen mask child,TEST1620,2027-09-08,114,100.0,180.0
+623,Nebulizer mask set,TEST1621,2027-09-19,32,120.0,220.0
+624,Urine specimen container,TEST1622,2027-09-30,70,15.0,35.0
+625,Stool specimen container,TEST1623,2027-10-11,80,15.0,35.0
+626,Blood collection tube EDTA,TEST1624,2027-10-22,68,800.0,1300.0
+627,Blood collection tube plain,TEST1625,2027-11-02,82,700.0,1200.0
+628,Blood collection tube citrate,TEST1626,2027-11-13,120,900.0,1500.0
+629,Vacutainer needle,TEST1627,2027-11-24,21,900.0,1500.0
+630,Lancets,TEST1628,2027-12-05,115,250.0,450.0
+631,Blood glucose test strips,TEST1629,2027-12-16,107,900.0,1800.0
+632,Urine dipstick strips,TEST1630,2027-12-27,105,800.0,1600.0
+633,Pregnancy test strip,TEST1631,2028-01-07,5,500.0,1000.0
+634,Rapid malaria test kit,TEST1632,2028-01-18,83,180.0,350.0
+635,Pulse oximeter probe cover,TEST1633,2028-01-29,53,300.0,600.0
+636,Thermometer digital,TEST1634,2028-02-09,3,250.0,600.0
+637,Clinical thermometer disposable covers,TEST1635,2028-02-20,69,200.0,400.0
+638,Hot water bottle,TEST1636,2028-03-02,38,450.0,900.0
+639,Ice bag,TEST1637,2028-03-13,103,300.0,650.0
+640,Adult diapers,TEST1638,2028-03-24,58,900.0,1800.0
+641,Underpads,TEST1639,2028-04-04,7,500.0,1000.0
+642,Sanitary pads,TEST1640,2028-04-15,53,250.0,600.0
+643,Baby diapers,TEST1641,2028-04-26,26,700.0,1800.0
+644,Baby wipes,TEST1642,2028-05-07,18,250.0,500.0
+645,Hand sanitizer,TEST1643,2028-05-18,40,250.0,450.0
+646,Liquid hand wash,TEST1644,2028-05-29,16,180.0,350.0
+647,Surface disinfectant,TEST1645,2028-06-09,71,300.0,650.0
+648,Surgical spirit,TEST1646,2028-06-20,30,250.0,450.0
+649,Medical adhesive remover,TEST1647,2028-07-01,34,350.0,700.0
+650,Sharps container,TEST1648,2028-07-12,18,350.0,700.0
+651,Biohazard waste bag,TEST1649,2028-07-23,37,400.0,800.0
+652,Disposable apron,TEST1650,2028-08-03,53,500.0,900.0
+653,Disposable gown,TEST1651,2028-08-14,104,120.0,250.0
+654,Surgical blade No. 10,TEST1652,2028-08-25,92,700.0,1300.0
+655,Surgical blade No. 11,TEST1653,2028-09-05,97,700.0,1300.0
+656,Surgical blade No. 15,TEST1654,2028-09-16,65,700.0,1300.0
+657,Suture nylon 2-0,TEST1655,2028-09-27,112,100.0,250.0
+658,Suture nylon 3-0,TEST1656,2028-10-08,2,100.0,250.0
+659,Suture silk 2-0,TEST1657,2028-10-19,64,100.0,250.0
+660,Suture vicryl 2-0,TEST1658,2028-10-30,27,250.0,500.0
+661,Suture vicryl 3-0,TEST1659,2028-11-10,6,250.0,500.0
+662,Surgical drape,TEST1660,2028-11-21,63,150.0,400.0
+663,Tongue depressor,TEST1661,2028-12-02,86,200.0,400.0
+664,Wooden applicator stick,TEST1662,2028-12-13,68,150.0,300.0
+665,Disposable kidney tray,TEST1663,2028-12-24,55,40.0,100.0
+666,Emesis bag,TEST1664,2029-01-04,93,150.0,300.0
+667,Nebulizer chamber,TEST1665,2029-01-15,46,200.0,450.0
+668,Spacer device,TEST1666,2029-01-26,6,600.0,1400.0
+669,Peak flow meter,TEST1667,2029-02-06,24,1200.0,2500.0
+670,Hearing aid battery,TEST1668,2029-02-17,36,250.0,500.0
+671,Eye pad sterile,TEST1669,2029-02-28,64,100.0,250.0
+672,Eye wash solution,TEST1670,2029-03-11,35,200.0,500.0
+673,Dental floss,TEST1671,2029-03-22,78,150.0,350.0
+674,Oral care swab,TEST1672,2029-04-02,12,250.0,500.0
+675,Feeding syringe,TEST1673,2029-04-13,101,100.0,250.0
+676,Enteral feeding bag,TEST1674,2029-04-24,120,150.0,350.0
+677,Colostomy bag,TEST1675,2029-05-05,25,250.0,600.0
+678,Ostomy skin barrier,TEST1676,2029-05-16,51,200.0,500.0
+679,Elastic knee support,TEST1677,2029-05-27,5,350.0,900.0
+680,Wrist support,TEST1678,2029-06-07,91,300.0,800.0
+681,Cervical collar,TEST1679,2029-06-18,66,500.0,1400.0
+682,Walking stick,TEST1680,2029-06-29,77,700.0,1800.0
+683,Digital blood pressure monitor,TEST1681,2029-07-10,41,3500.0,8000.0
+684,Stethoscope,TEST1682,2029-07-21,20,1500.0,6000.0
+685,Digital weighing scale,TEST1683,2029-08-01,94,2500.0,6000.0
+686,First aid box refill,TEST1684,2029-08-12,43,1000.0,2500.0
+687,Ibuprofen 100 mg/5 mL Suspension - Bottle 30 mL variant,TEST1685,2029-08-23,90,548.0,690.0
+688,Naproxen 250 mg Tablet - Unit pack variant,TEST1686,2029-09-03,47,566.0,745.0
+689,Cetirizine 5 mg/5 mL Syrup - Pack of 20 variant,TEST1687,2029-09-14,74,807.0,1085.0
+690,Chlorpheniramine 4 mg Tablet - Pack of 100 variant,TEST1688,2029-09-25,88,718.0,930.0
+691,Omeprazole 40 mg Capsule - Bottle 100 mL variant,TEST1689,2029-10-06,83,160.0,190.0
+692,Pantoprazole 40 mg Tablet - Pack of 10 variant,TEST1690,2029-10-17,74,362.0,470.0
+693,Ondansetron 4 mg Tablet - Pack of 50 variant,TEST1691,2029-10-28,79,49.0,65.0
+694,Loperamide 2 mg Capsule - Bottle 60 mL variant,TEST1692,2029-11-08,4,425.0,545.0
+695,Senna 7.5 mg Tablet - Pack of 5 variant,TEST1693,2029-11-19,2,933.0,1095.0
+696,Amoxicillin 125 mg/5 mL Suspension - Pack of 30 variant,TEST1694,2029-11-30,88,130.0,155.0
+697,Azithromycin 500 mg Tablet - Bottle 30 mL variant,TEST1695,2029-12-11,117,294.0,385.0
+698,Cefuroxime 500 mg Tablet - Unit pack variant,TEST1696,2029-12-22,7,896.0,1160.0
+699,Ciprofloxacin 500 mg Tablet - Pack of 20 variant,TEST1697,2027-01-03,84,237.0,300.0
+700,Doxycycline 100 mg Capsule - Pack of 100 variant,TEST1698,2027-01-14,22,765.0,930.0
+701,Nitrofurantoin 100 mg Capsule - Bottle 100 mL variant,TEST1699,2027-01-25,45,803.0,980.0
+702,Fluconazole 50 mg/5 mL Suspension - Pack of 10 variant,TEST1700,2027-02-05,31,141.0,170.0
+703,Acyclovir 200 mg Tablet - Pack of 50 variant,TEST1701,2027-02-16,33,177.0,210.0
+704,Betamethasone 0.1% Cream - Bottle 60 mL variant,TEST1702,2027-02-27,62,946.0,1220.0
+705,Dexamethasone 4 mg Tablet - Pack of 5 variant,TEST1703,2027-03-10,119,860.0,1085.0
+706,Budesonide 100 mcg/dose Inhaler - Pack of 30 variant,TEST1704,2027-03-21,69,221.0,280.0
+707,Theophylline 200 mg SR Tablet - Bottle 30 mL variant,TEST1705,2027-04-01,44,903.0,1110.0
+708,Guaifenesin 200 mg Tablet - Unit pack variant,TEST1706,2027-04-12,91,470.0,570.0
+709,Metformin 500 mg Tablet - Pack of 20 variant,TEST1707,2027-04-23,32,811.0,1005.0
+710,Gliclazide 60 mg MR Tablet - Pack of 100 variant,TEST1708,2027-05-04,34,469.0,615.0
+711,Empagliflozin 25 mg Tablet - Bottle 100 mL variant,TEST1709,2027-05-15,78,356.0,420.0
+712,Amlodipine 2.5 mg Tablet - Pack of 10 variant,TEST1710,2027-05-26,115,409.0,475.0
+713,Valsartan 160 mg Tablet - Pack of 50 variant,TEST1711,2027-06-06,12,676.0,810.0
+714,Lisinopril 20 mg Tablet - Bottle 60 mL variant,TEST1712,2027-06-17,87,362.0,450.0
+715,Hydrochlorothiazide 12.5 mg Tablet - Pack of 5 variant,TEST1713,2027-06-28,118,442.0,555.0
+716,Spironolactone 50 mg Tablet - Pack of 30 variant,TEST1714,2027-07-09,112,446.0,595.0
+717,Rosuvastatin 10 mg Tablet - Bottle 30 mL variant,TEST1715,2027-07-20,36,48.0,55.0
+718,Warfarin 5 mg Tablet - Unit pack variant,TEST1716,2027-07-31,98,853.0,990.0
+719,Levothyroxine 50 mcg Tablet - Pack of 20 variant,TEST1717,2027-08-11,94,626.0,750.0
+720,Iron + folic acid Standard Capsule - Pack of 100 variant,TEST1718,2027-08-22,112,630.0,745.0
+721,Vitamin B complex Standard Tablet - Bottle 100 mL variant,TEST1719,2027-09-02,107,389.0,450.0
+722,Vitamin D3 2000 IU Capsule - Pack of 10 variant,TEST1720,2027-09-13,95,724.0,860.0
+723,Zinc sulfate 20 mg Tablet - Pack of 50 variant,TEST1721,2027-09-24,72,786.0,905.0
+724,B-complex + B12 Standard Tablet - Bottle 60 mL variant,TEST1722,2027-10-05,36,250.0,335.0
+725,Gabapentin 400 mg Capsule - Pack of 5 variant,TEST1723,2027-10-16,63,869.0,1095.0
+726,Amitriptyline 50 mg Tablet - Pack of 30 variant,TEST1724,2027-10-27,24,567.0,705.0
+727,Fluoxetine 20 mg Capsule - Bottle 30 mL variant,TEST1725,2027-11-07,82,672.0,870.0
+728,Clonazepam 2 mg Tablet - Unit pack variant,TEST1726,2027-11-18,43,174.0,200.0
+729,Carbamazepine 200 mg Tablet - Pack of 20 variant,TEST1727,2027-11-29,22,171.0,225.0
+730,Tamsulosin 0.4 mg Capsule - Pack of 100 variant,TEST1728,2027-12-10,105,617.0,820.0
+731,Oral contraceptive combination 21-day pack Tablet - Bottle 100 mL variant,TEST1729,2027-12-21,85,519.0,605.0
+732,Misoprostol 200 mcg Tablet - Pack of 10 variant,TEST1730,2028-01-01,41,500.0,590.0
+733,Hydrogen peroxide 3% Solution - Pack of 50 variant,TEST1731,2028-01-12,57,316.0,390.0
+734,Calamine lotion Standard Lotion - Bottle 60 mL variant,TEST1732,2028-01-23,92,78.0,95.0
+735,Artificial tears 0.5% Eye drops - Pack of 5 variant,TEST1733,2028-02-03,88,433.0,555.0
+736,Ofloxacin ophthalmic 0.3% Eye drops - Pack of 30 variant,TEST1734,2028-02-14,39,125.0,145.0
+737,Ketoconazole 2% Shampoo - Bottle 30 mL variant,TEST1735,2028-02-25,114,294.0,370.0
+738,Minoxidil 5% Topical solution - Unit pack variant,TEST1736,2028-03-07,120,996.0,1275.0
+739,Benzoyl peroxide 2.5% Gel - Pack of 20 variant,TEST1737,2028-03-18,12,720.0,860.0
+740,Tramadol 100 mg Tablet - Pack of 100 variant,TEST1738,2028-03-29,77,73.0,95.0
+741,Propofol 10 mg/mL Injection - Bottle 100 mL variant,TEST1739,2028-04-09,60,69.0,85.0
+742,Vitamin K1 10 mg/mL Injection - Pack of 10 variant,TEST1740,2028-04-20,97,332.0,435.0
+743,Sodium chloride 0.65% Nasal spray - Pack of 50 variant,TEST1741,2028-05-01,100,189.0,240.0
+744,Heparin sodium 5000 IU/mL Injection - Bottle 60 mL variant,TEST1742,2028-05-12,46,825.0,1035.0
+745,Piperacillin + tazobactam 2.25 g Injection - Pack of 5 variant,TEST1743,2028-05-23,106,929.0,1090.0
+746,Linezolid 600 mg/300 mL IV infusion - Pack of 30 variant,TEST1744,2028-06-03,68,429.0,510.0
+747,Amikacin 500 mg/2 mL Injection - Bottle 30 mL variant,TEST1745,2028-06-14,56,655.0,865.0
+748,Mebendazole 500 mg Tablet - Unit pack variant,TEST1746,2028-06-25,62,1009.0,1305.0
+749,Dicyclomine 10 mg/5 mL Syrup - Pack of 20 variant,TEST1747,2028-07-06,7,154.0,190.0
+750,Ursodeoxycholic acid 500 mg Tablet - Pack of 100 variant,TEST1748,2028-07-17,72,592.0,730.0
+751,Simethicone 40 mg/0.6 mL Drops - Bottle 100 mL variant,TEST1749,2028-07-28,39,355.0,455.0
+752,Betahistine 8 mg Tablet - Pack of 10 variant,TEST1750,2028-08-08,95,452.0,595.0
+753,Diltiazem 90 mg SR Capsule - Pack of 50 variant,TEST1751,2028-08-19,44,862.0,1000.0
+754,Amiodarone 200 mg Tablet - Bottle 60 mL variant,TEST1752,2028-08-30,114,880.0,1025.0
+755,Sacubitril + valsartan 97/103 mg Tablet - Pack of 5 variant,TEST1753,2028-09-10,36,491.0,610.0
+756,Solifenacin 10 mg Tablet - Pack of 30 variant,TEST1754,2028-09-21,82,174.0,205.0
+757,Choline salicylate oral gel 8.7% Oral gel - Bottle 30 mL variant,TEST1755,2028-10-02,57,729.0,970.0
+758,Paracetamol + caffeine 500 mg/65 mg Tablet - Unit pack variant,TEST1756,2028-10-13,84,167.0,215.0
+759,Glycerin 100 mL Liquid - Pack of 20 variant,TEST1757,2028-10-24,15,617.0,815.0
+760,Moisturizing lotion 200 mL Lotion - Pack of 100 variant,TEST1758,2028-11-04,16,2330.0,2865.0
+761,Throat lozenges Menthol Lozenge - Bottle 100 mL variant,TEST1759,2028-11-15,38,1858.0,2420.0
+762,Eye lubricant gel 10 g Gel - Pack of 10 variant,TEST1760,2028-11-26,68,1774.0,2235.0
+763,Adult multivitamin with minerals Standard Tablet - Pack of 50 variant,TEST1761,2028-12-07,44,2607.0,3125.0
+764,Psyllium husk 200 g Powder - Bottle 60 mL variant,TEST1762,2028-12-18,92,1435.0,1920.0
+765,Glucometer control solution Standard Solution - Pack of 5 variant,TEST1763,2028-12-29,78,281.0,360.0
+766,Disposable bed sheet Pack of 10 Sheet - Pack of 30 variant,TEST1764,2029-01-09,76,820.0,955.0
+767,Chlorine disinfectant tablets Standard Tub - Bottle 30 mL variant,TEST1765,2029-01-20,111,2146.0,2755.0
+768,Disposable scalp vein set 23G Piece - Unit pack variant,TEST1766,2029-01-31,56,1782.0,2065.0
+769,Sterile drape sheet Standard Piece - Pack of 20 variant,TEST1767,2029-02-11,99,1724.0,2245.0
+770,Alcohol swabs - Pack of 100 variant,TEST1768,2029-02-22,29,226.0,305.0
+771,Microporous surgical tape - Bottle 100 mL variant,TEST1769,2029-03-05,86,68.0,85.0
+772,Disposable syringe 5 mL - Pack of 10 variant,TEST1770,2029-03-16,84,850.0,1125.0
+773,IV cannula 24G - Pack of 50 variant,TEST1771,2029-03-27,7,42.0,50.0
+774,Foley catheter 16 Fr - Bottle 60 mL variant,TEST1772,2029-04-07,116,184.0,245.0
+775,Stool specimen container - Pack of 5 variant,TEST1773,2029-04-18,63,16.0,20.0
+776,Urine dipstick strips - Pack of 30 variant,TEST1774,2029-04-29,85,991.0,1325.0
+777,Ice bag - Bottle 30 mL variant,TEST1775,2029-05-10,53,349.0,425.0
+778,Liquid hand wash - Unit pack variant,TEST1776,2029-05-21,96,163.0,200.0
+779,Disposable gown - Pack of 20 variant,TEST1777,2029-06-01,38,124.0,165.0
+780,Suture vicryl 2-0 - Pack of 100 variant,TEST1778,2029-06-12,71,293.0,390.0
+781,Nebulizer chamber - Bottle 100 mL variant,TEST1779,2029-06-23,17,247.0,310.0
+782,Oral care swab - Pack of 10 variant,TEST1780,2029-07-04,82,236.0,280.0
+783,Cervical collar - Pack of 50 variant,TEST1781,2029-07-15,11,609.0,805.0
+784,Paracetamol 650 mg Tablet - Bottle 60 mL variant,TEST1782,2029-07-26,34,324.0,385.0
+785,Ibuprofen 5% Gel - Pack of 5 variant,TEST1783,2029-08-06,111,357.0,455.0
+786,Naproxen 500 mg Tablet - Pack of 30 variant,TEST1784,2029-08-17,92,106.0,140.0
+787,Cetirizine 10 mg/mL Drops - Bottle 30 mL variant,TEST1785,2029-08-28,116,616.0,735.0
+788,Chlorpheniramine 2 mg/5 mL Syrup - Unit pack variant,TEST1786,2029-09-08,27,685.0,910.0
+789,Omeprazole 40 mg Injection - Pack of 20 variant,TEST1787,2029-09-19,96,1044.0,1225.0
+790,Pantoprazole 40 mg Injection - Pack of 100 variant,TEST1788,2029-09-30,90,46.0,60.0
+791,Ondansetron 8 mg Tablet - Bottle 100 mL variant,TEST1789,2029-10-11,41,893.0,1070.0
+792,Loperamide 2 mg Tablet - Pack of 10 variant,TEST1790,2029-10-22,45,809.0,1015.0
+793,Senna 15 mg Tablet - Pack of 50 variant,TEST1791,2029-11-02,63,99.0,125.0
+794,Amoxicillin 250 mg/5 mL Suspension - Bottle 60 mL variant,TEST1792,2029-11-13,60,416.0,560.0
+795,Azithromycin 200 mg/5 mL Suspension - Pack of 5 variant,TEST1793,2029-11-24,52,164.0,200.0
+796,Cefuroxime 125 mg/5 mL Suspension - Pack of 30 variant,TEST1794,2029-12-05,18,765.0,915.0
+797,Ciprofloxacin 750 mg Tablet - Bottle 30 mL variant,TEST1795,2029-12-16,74,692.0,925.0
+798,Doxycycline 100 mg Tablet - Unit pack variant,TEST1796,2029-12-27,29,346.0,410.0
+799,Co-trimoxazole 480 mg Tablet - Pack of 20 variant,TEST1797,2027-01-08,70,773.0,925.0
+800,Clotrimazole 1% Cream - Pack of 100 variant,TEST1798,2027-01-19,92,76.0,100.0
+801,Acyclovir 400 mg Tablet - Bottle 100 mL variant,TEST1799,2027-01-30,43,879.0,1140.0
+802,Betamethasone 0.1% Ointment - Pack of 10 variant,TEST1800,2027-02-10,23,279.0,350.0
+803,Dexamethasone 4 mg/mL Injection - Pack of 50 variant,TEST1801,2027-02-21,67,553.0,740.0
+804,Budesonide 200 mcg/dose Inhaler - Bottle 60 mL variant,TEST1802,2027-03-04,104,42.0,50.0
+805,Theophylline 300 mg SR Tablet - Pack of 5 variant,TEST1803,2027-03-15,107,266.0,330.0
+806,Ambroxol 30 mg Tablet - Pack of 30 variant,TEST1804,2027-03-26,27,489.0,575.0
+807,Metformin 850 mg Tablet - Bottle 30 mL variant,TEST1805,2027-04-06,81,701.0,815.0
+808,Glimepiride 1 mg Tablet - Unit pack variant,TEST1806,2027-04-17,2,872.0,1120.0
+809,Insulin regular 100 IU/mL Vial - Pack of 20 variant,TEST1807,2027-04-28,2,292.0,360.0
+810,Amlodipine 5 mg Tablet - Pack of 100 variant,TEST1808,2027-05-09,36,931.0,1170.0
+811,Valsartan 320 mg Tablet - Bottle 100 mL variant,TEST1809,2027-05-20,55,815.0,1050.0
+812,Bisoprolol 2.5 mg Tablet - Pack of 10 variant,TEST1810,2027-05-31,19,284.0,330.0
+813,Hydrochlorothiazide 25 mg Tablet - Pack of 50 variant,TEST1811,2027-06-11,104,239.0,300.0
+814,Spironolactone 100 mg Tablet - Bottle 60 mL variant,TEST1812,2027-06-22,47,613.0,755.0
+815,Rosuvastatin 20 mg Tablet - Pack of 5 variant,TEST1813,2027-07-03,89,147.0,175.0
+816,Apixaban 2.5 mg Tablet - Pack of 30 variant,TEST1814,2027-07-14,10,275.0,360.0
+817,Levothyroxine 75 mcg Tablet - Bottle 30 mL variant,TEST1815,2027-07-25,70,685.0,840.0
+818,Iron + folic acid Standard Syrup - Unit pack variant,TEST1816,2027-08-05,21,410.0,470.0
+819,Vitamin B complex Standard Capsule - Pack of 20 variant,TEST1817,2027-08-16,100,678.0,840.0
+820,Vitamin D3 50000 IU Capsule - Pack of 100 variant,TEST1818,2027-08-27,12,523.0,690.0
+821,Zinc sulfate 20 mg/5 mL Syrup - Bottle 100 mL variant,TEST1819,2027-09-07,115,323.0,385.0
+822,B-complex + B12 Standard Injection - Pack of 10 variant,TEST1820,2027-09-18,9,202.0,235.0
+823,Pregabalin 25 mg Capsule - Pack of 50 variant,TEST1821,2027-09-29,4,1065.0,1345.0
+824,Sertraline 25 mg Tablet - Bottle 60 mL variant,TEST1822,2027-10-10,26,355.0,430.0
+825,Fluoxetine 20 mg Tablet - Pack of 5 variant,TEST1823,2027-10-21,105,354.0,465.0
+826,Levetiracetam 250 mg Tablet - Pack of 30 variant,TEST1824,2027-11-01,72,1073.0,1300.0
+827,Carbamazepine 400 mg CR Tablet - Bottle 30 mL variant,TEST1825,2027-11-12,86,918.0,1210.0
+828,Tamsulosin 0.4 mg MR Tablet - Unit pack variant,TEST1826,2027-11-23,17,179.0,235.0
+829,Oral contraceptive combination 28-day pack Tablet - Pack of 20 variant,TEST1827,2027-12-04,6,393.0,530.0
+830,Chlorhexidine 0.05% Solution - Pack of 100 variant,TEST1828,2027-12-15,43,654.0,860.0
+831,Mupirocin 2% Ointment - Bottle 100 mL variant,TEST1829,2027-12-26,50,490.0,655.0
+832,Zinc oxide 10% Cream - Pack of 10 variant,TEST1830,2028-01-06,57,288.0,345.0
+833,Artificial tears 0.1% Eye drops - Pack of 50 variant,TEST1831,2028-01-17,48,278.0,350.0
+834,Ofloxacin ophthalmic 0.3% Eye ointment - Bottle 60 mL variant,TEST1832,2028-01-28,48,371.0,470.0
+835,Ketoconazole 2% Cream - Pack of 5 variant,TEST1833,2028-02-08,31,785.0,950.0
+836,Isotretinoin 10 mg Capsule - Pack of 30 variant,TEST1834,2028-02-19,91,759.0,895.0
+837,Benzoyl peroxide 5% Gel - Bottle 30 mL variant,TEST1835,2028-03-01,13,725.0,880.0
+838,Tramadol 50 mg/mL Injection - Unit pack variant,TEST1836,2028-03-12,46,130.0,160.0
+839,Lignocaine + adrenaline 2% with adrenaline Injection - Pack of 20 variant,TEST1837,2028-03-23,55,435.0,510.0
+840,Calcium gluconate 10% Injection - Pack of 100 variant,TEST1838,2028-04-03,13,262.0,330.0
+841,Dextrose 5% 500 mL IV infusion - Bottle 100 mL variant,TEST1839,2028-04-14,76,564.0,710.0
+842,Enoxaparin 40 mg/0.4 mL Prefilled syringe - Pack of 10 variant,TEST1840,2028-04-25,1,586.0,775.0
+843,Piperacillin + tazobactam 4.5 g Injection - Pack of 50 variant,TEST1841,2028-05-06,92,586.0,765.0
+844,Clindamycin 150 mg Capsule - Bottle 60 mL variant,TEST1842,2028-05-17,73,506.0,680.0
+845,Artemether + lumefantrine 20 mg/120 mg Tablet - Pack of 5 variant,TEST1843,2028-05-28,17,301.0,370.0
+846,Mebendazole 100 mg/5 mL Suspension - Pack of 30 variant,TEST1844,2028-06-08,8,643.0,805.0
+847,Dicyclomine 10 mg/mL Injection - Bottle 30 mL variant,TEST1845,2028-06-19,61,430.0,530.0
+848,Silymarin 140 mg Tablet - Unit pack variant,TEST1846,2028-06-30,92,253.0,340.0
+849,Simethicone 80 mg Tablet - Pack of 20 variant,TEST1847,2028-07-11,13,591.0,705.0
+850,Betahistine 16 mg Tablet - Pack of 100 variant,TEST1848,2028-07-22,42,321.0,430.0
+851,Diltiazem 120 mg SR Tablet - Bottle 100 mL variant,TEST1849,2028-08-02,56,833.0,1100.0
+852,Amiodarone 150 mg/3 mL Injection - Pack of 10 variant,TEST1850,2028-08-13,83,824.0,1085.0
+853,Dapagliflozin 5 mg Tablet - Pack of 50 variant,TEST1851,2028-08-24,88,458.0,555.0
+854,Desloratadine 5 mg Tablet - Bottle 60 mL variant,TEST1852,2028-09-04,50,900.0,1065.0
+855,Benzydamine 0.15% Mouthwash - Pack of 5 variant,TEST1853,2028-09-15,62,98.0,125.0
+856,Calcium + magnesium + zinc Standard Tablet - Pack of 30 variant,TEST1854,2028-09-26,35,409.0,495.0
+857,Glycerin 200 mL Liquid - Bottle 30 mL variant,TEST1855,2028-10-07,25,2120.0,2835.0
+858,Baby shampoo 100 mL Shampoo - Unit pack variant,TEST1856,2028-10-18,98,1258.0,1490.0
+859,Throat lozenges Honey lemon Lozenge - Pack of 20 variant,TEST1857,2028-10-29,120,1861.0,2410.0
+860,Oral rehydration drink 200 mL Ready-to-drink - Pack of 100 variant,TEST1858,2028-11-09,88,466.0,565.0
+861,Adult multivitamin with minerals Standard Capsule - Bottle 100 mL variant,TEST1859,2028-11-20,52,1204.0,1575.0
+862,Lactase enzyme Standard Tablet - Pack of 10 variant,TEST1860,2028-12-01,32,739.0,895.0
+863,Nebulizer machine Standard Compressor - Pack of 50 variant,TEST1861,2028-12-12,9,2764.0,3615.0
+864,Examination couch paper 50 cm x 50 m Roll - Bottle 60 mL variant,TEST1862,2028-12-23,51,2693.0,3355.0
+865,Medical-grade adhesive tape 2.5 cm Roll - Pack of 5 variant,TEST1863,2029-01-03,88,1202.0,1605.0
+866,Disposable scalp vein set 25G Piece - Pack of 30 variant,TEST1864,2029-01-14,46,1954.0,2555.0
+867,Disposable examination gloves - Bottle 30 mL variant,TEST1865,2029-01-25,13,380.0,505.0
+868,Cotton wool - Unit pack variant,TEST1866,2029-02-05,82,500.0,610.0
+869,Zinc oxide tape - Pack of 20 variant,TEST1867,2029-02-16,86,130.0,175.0
+870,Disposable syringe 10 mL - Pack of 100 variant,TEST1868,2029-02-27,101,1855.0,2255.0
+871,IV infusion set - Bottle 100 mL variant,TEST1869,2029-03-10,28,80.0,95.0
+872,Foley catheter 18 Fr - Pack of 10 variant,TEST1870,2029-03-21,88,172.0,215.0
+873,Blood collection tube EDTA - Pack of 50 variant,TEST1871,2029-04-01,59,750.0,920.0
+874,Pregnancy test strip - Bottle 60 mL variant,TEST1872,2029-04-12,3,563.0,665.0
+875,Adult diapers - Pack of 5 variant,TEST1873,2029-04-23,10,802.0,990.0
+876,Surface disinfectant - Pack of 30 variant,TEST1874,2029-05-04,44,354.0,460.0
+877,Surgical blade No. 10 - Bottle 30 mL variant,TEST1875,2029-05-15,66,691.0,905.0
+878,Suture vicryl 3-0 - Unit pack variant,TEST1876,2029-05-26,92,247.0,290.0
+879,Spacer device - Pack of 20 variant,TEST1877,2029-06-06,103,586.0,710.0
+880,Feeding syringe - Pack of 100 variant,TEST1878,2029-06-17,13,85.0,105.0
+881,Walking stick - Bottle 100 mL variant,TEST1879,2029-06-28,66,855.0,1110.0
+882,Paracetamol 120 mg/5 mL Syrup - Pack of 10 variant,TEST1880,2029-07-09,54,778.0,945.0
+883,Diclofenac sodium 50 mg Tablet - Pack of 50 variant,TEST1881,2029-07-20,23,706.0,870.0
+884,Naproxen 125 mg/5 mL Suspension - Bottle 60 mL variant,TEST1882,2029-07-31,3,448.0,555.0
+885,Loratadine 10 mg Tablet - Pack of 5 variant,TEST1883,2029-08-11,54,939.0,1165.0
+886,Chlorpheniramine 10 mg/mL Injection - Pack of 30 variant,TEST1884,2029-08-22,35,154.0,185.0
+887,Esomeprazole 20 mg Capsule - Bottle 30 mL variant,TEST1885,2029-09-02,68,108.0,140.0
+888,Famotidine 20 mg Tablet - Unit pack variant,TEST1886,2029-09-13,14,544.0,645.0
+889,Ondansetron 4 mg/5 mL Syrup - Pack of 20 variant,TEST1887,2029-09-24,81,314.0,390.0
+890,Oral rehydration salts Standard formula Sachet - Pack of 100 variant,TEST1888,2029-10-05,75,832.0,1060.0
+891,Lactobacillus probiotic Standard Capsule - Bottle 100 mL variant,TEST1889,2029-10-16,79,105.0,140.0
+892,Amoxicillin + clavulanic acid 625 mg Tablet - Pack of 10 variant,TEST1890,2029-10-27,38,851.0,1100.0
+893,Cefixime 200 mg Capsule - Pack of 50 variant,TEST1891,2029-11-07,40,967.0,1240.0
+894,Cefuroxime 750 mg Injection - Bottle 60 mL variant,TEST1892,2029-11-18,47,216.0,255.0
+895,Ciprofloxacin 0.3% Eye drops - Pack of 5 variant,TEST1893,2029-11-29,17,651.0,805.0
+896,Metronidazole 200 mg Tablet - Pack of 30 variant,TEST1894,2029-12-10,81,673.0,800.0
+897,Co-trimoxazole 960 mg Tablet - Bottle 30 mL variant,TEST1895,2029-12-21,22,193.0,245.0
+898,Clotrimazole 100 mg Vaginal tablet - Unit pack variant,TEST1896,2027-01-02,23,629.0,760.0
+899,Acyclovir 5% Cream - Pack of 20 variant,TEST1897,2027-01-13,110,296.0,375.0
+900,Betamethasone 4 mg/mL Injection - Pack of 100 variant,TEST1898,2027-01-24,24,524.0,655.0
+901,Dexamethasone 0.1% Eye drops - Bottle 100 mL variant,TEST1899,2027-02-04,63,462.0,580.0
+902,Budesonide 0.5 mg/2 mL Nebulizer solution - Pack of 10 variant,TEST1900,2027-02-15,107,829.0,1020.0
+903,Loratadine + pseudoephedrine 5 mg/120 mg Tablet - Pack of 50 variant,TEST1901,2027-02-26,3,761.0,890.0
+904,Ambroxol 15 mg/5 mL Syrup - Bottle 60 mL variant,TEST1902,2027-03-09,68,685.0,825.0
+905,Metformin 1000 mg Tablet - Pack of 5 variant,TEST1903,2027-03-20,95,496.0,615.0
+906,Glimepiride 2 mg Tablet - Pack of 30 variant,TEST1904,2027-03-31,14,384.0,450.0
+907,Insulin regular 100 IU/mL Cartridge - Bottle 30 mL variant,TEST1905,2027-04-11,46,682.0,895.0
+908,Amlodipine 10 mg Tablet - Unit pack variant,TEST1906,2027-04-22,92,48.0,55.0
+909,Enalapril 2.5 mg Tablet - Pack of 20 variant,TEST1907,2027-05-03,13,176.0,235.0
+910,Bisoprolol 5 mg Tablet - Pack of 100 variant,TEST1908,2027-05-14,57,500.0,675.0
+911,Hydrochlorothiazide 50 mg Tablet - Bottle 100 mL variant,TEST1909,2027-05-25,56,811.0,1065.0
+912,Atorvastatin 10 mg Tablet - Pack of 10 variant,TEST1910,2027-06-05,103,161.0,195.0
+913,Rosuvastatin 40 mg Tablet - Pack of 50 variant,TEST1911,2027-06-16,78,854.0,1130.0
+914,Apixaban 5 mg Tablet - Bottle 60 mL variant,TEST1912,2027-06-27,26,658.0,775.0
+915,Levothyroxine 100 mcg Tablet - Pack of 5 variant,TEST1913,2027-07-08,68,950.0,1200.0
+916,Ferrous sulfate 200 mg Tablet - Pack of 30 variant,TEST1914,2027-07-19,90,430.0,510.0
+917,Vitamin B complex Standard Syrup - Bottle 30 mL variant,TEST1915,2027-07-30,109,326.0,390.0
+918,Vitamin D3 400 IU/mL Drops - Unit pack variant,TEST1916,2027-08-10,12,364.0,470.0
+919,Zinc sulfate 20 mg Dispersible tablet - Pack of 20 variant,TEST1917,2027-08-21,117,602.0,785.0
+920,Methylcobalamin 500 mcg Tablet - Pack of 100 variant,TEST1918,2027-09-01,16,922.0,1220.0
+921,Pregabalin 50 mg Capsule - Bottle 100 mL variant,TEST1919,2027-09-12,106,193.0,250.0
+922,Sertraline 50 mg Tablet - Pack of 10 variant,TEST1920,2027-09-23,62,837.0,1075.0
+923,Diazepam 2 mg Tablet - Pack of 50 variant,TEST1921,2027-10-04,53,779.0,940.0
+924,Levetiracetam 500 mg Tablet - Bottle 60 mL variant,TEST1922,2027-10-15,112,523.0,670.0
+925,Carbamazepine 100 mg/5 mL Suspension - Pack of 5 variant,TEST1923,2027-10-26,88,356.0,465.0
+926,Finasteride 5 mg Tablet - Pack of 30 variant,TEST1924,2027-11-06,74,572.0,715.0
+927,Levonorgestrel 1.5 mg Tablet - Bottle 30 mL variant,TEST1925,2027-11-17,11,504.0,665.0
+928,Chlorhexidine 0.2% Mouthwash - Unit pack variant,TEST1926,2027-11-28,108,993.0,1280.0
+929,Mupirocin 2% Cream - Pack of 20 variant,TEST1927,2027-12-09,54,688.0,845.0
+930,Zinc oxide 20% Ointment - Pack of 100 variant,TEST1928,2027-12-20,36,192.0,235.0
+931,Timolol 0.25% Eye drops - Bottle 100 mL variant,TEST1929,2027-12-31,109,351.0,415.0
+932,Carboxymethylcellulose 0.5% Eye drops - Pack of 10 variant,TEST1930,2028-01-11,97,66.0,90.0
+933,Ketoconazole 200 mg Tablet - Pack of 50 variant,TEST1931,2028-01-22,107,304.0,390.0
+934,Isotretinoin 20 mg Capsule - Bottle 60 mL variant,TEST1932,2028-02-02,20,734.0,980.0
+935,Benzoyl peroxide 10% Gel - Pack of 5 variant,TEST1933,2028-02-13,54,149.0,200.0
+936,Morphine 10 mg/mL Injection - Pack of 30 variant,TEST1934,2028-02-24,112,215.0,285.0
+937,Adrenaline (epinephrine) 1 mg/mL Injection - Bottle 30 mL variant,TEST1935,2028-03-06,52,124.0,165.0
+938,Magnesium sulfate 50% Injection - Unit pack variant,TEST1936,2028-03-17,47,274.0,330.0
+939,Dextrose 10% 500 mL IV infusion - Pack of 20 variant,TEST1937,2028-03-28,92,266.0,340.0
+940,Enoxaparin 60 mg/0.6 mL Prefilled syringe - Pack of 100 variant,TEST1938,2028-04-08,12,536.0,625.0
+941,Meropenem 500 mg Injection - Bottle 100 mL variant,TEST1939,2028-04-19,75,611.0,710.0
+942,Clindamycin 300 mg Capsule - Pack of 10 variant,TEST1940,2028-04-30,1,108.0,135.0
+943,Chloroquine 250 mg Tablet - Pack of 50 variant,TEST1941,2028-05-11,54,165.0,220.0
+944,Ivermectin 3 mg Tablet - Bottle 60 mL variant,TEST1942,2028-05-22,11,63.0,75.0
+945,Mebeverine 135 mg Tablet - Pack of 5 variant,TEST1943,2028-06-02,38,174.0,215.0
+946,Silymarin Standard Capsule - Pack of 30 variant,TEST1944,2028-06-13,111,476.0,625.0
+947,Simethicone 40 mg/5 mL Suspension - Bottle 30 mL variant,TEST1945,2028-06-24,8,184.0,235.0
+948,Betahistine 24 mg Tablet - Unit pack variant,TEST1946,2028-07-05,21,394.0,500.0
+949,Isosorbide mononitrate 20 mg Tablet - Pack of 20 variant,TEST1947,2028-07-16,95,676.0,805.0
+950,Digoxin 0.125 mg Tablet - Pack of 100 variant,TEST1948,2028-07-27,56,601.0,765.0
+951,Dapagliflozin 10 mg Tablet - Bottle 100 mL variant,TEST1949,2028-08-07,96,364.0,425.0
+952,Desloratadine 2.5 mg/5 mL Syrup - Pack of 10 variant,TEST1950,2028-08-18,54,598.0,735.0
+953,Benzydamine 0.15% Spray - Pack of 50 variant,TEST1951,2028-08-29,82,850.0,1020.0
+954,Electrolyte powder Standard Sachet - Bottle 60 mL variant,TEST1952,2028-09-09,92,823.0,1045.0
+955,Lip balm 4 g Balm - Pack of 5 variant,TEST1953,2028-09-20,3,196.0,260.0
+956,Baby shampoo 200 mL Shampoo - Pack of 30 variant,TEST1954,2028-10-01,24,1837.0,2335.0
+957,Throat lozenges Herbal Lozenge - Bottle 30 mL variant,TEST1955,2028-10-12,114,683.0,795.0
+958,Oral rehydration drink 500 mL Ready-to-drink - Unit pack variant,TEST1956,2028-10-23,63,679.0,795.0
+959,Vitamin E 200 IU Capsule - Pack of 20 variant,TEST1957,2028-11-03,1,901.0,1195.0
+960,Activated charcoal 250 mg Capsule - Pack of 100 variant,TEST1958,2028-11-14,103,2684.0,3155.0
+961,Digital pulse oximeter Standard Finger type - Bottle 100 mL variant,TEST1959,2028-11-25,22,606.0,765.0
+962,Patient wristband Standard Pack of 100 - Pack of 10 variant,TEST1960,2028-12-06,2,2450.0,3195.0
+963,Medical-grade adhesive tape 5 cm Roll - Pack of 50 variant,TEST1961,2028-12-17,5,327.0,395.0
+964,Blood lancet pen Standard Device - Bottle 60 mL variant,TEST1962,2028-12-28,36,438.0,540.0
+965,Sterile surgical gloves - Pack of 5 variant,TEST1963,2029-01-08,51,92.0,115.0
+966,Cotton roll - Pack of 30 variant,TEST1964,2029-01-19,19,88.0,110.0
+967,Adhesive dressing strip - Bottle 30 mL variant,TEST1965,2029-01-30,117,132.0,155.0
+968,Disposable syringe 20 mL - Unit pack variant,TEST1966,2029-02-10,41,1487.0,1755.0
+969,Blood transfusion set - Pack of 20 variant,TEST1967,2029-02-21,83,162.0,210.0
+970,Nasogastric tube - Pack of 100 variant,TEST1968,2029-03-04,108,97.0,120.0
+971,Blood collection tube plain - Bottle 100 mL variant,TEST1969,2029-03-15,55,611.0,715.0
+972,Rapid malaria test kit - Pack of 10 variant,TEST1970,2029-03-26,39,185.0,235.0
+973,Underpads - Pack of 50 variant,TEST1971,2029-04-06,89,448.0,580.0
+974,Surgical spirit - Bottle 60 mL variant,TEST1972,2029-04-17,66,228.0,305.0
+975,Surgical blade No. 11 - Pack of 5 variant,TEST1973,2029-04-28,21,814.0,1055.0
+976,Surgical drape - Pack of 30 variant,TEST1974,2029-05-09,34,135.0,175.0
+977,Peak flow meter - Bottle 30 mL variant,TEST1975,2029-05-20,103,1390.0,1605.0
+978,Enteral feeding bag - Unit pack variant,TEST1976,2029-05-31,91,143.0,165.0
+979,Digital blood pressure monitor - Pack of 20 variant,TEST1977,2029-06-11,65,3853.0,4815.0
+980,Paracetamol 100 mg/mL Drops - Pack of 100 variant,TEST1978,2029-06-22,21,108.0,145.0
+981,Diclofenac sodium 100 mg SR Tablet - Bottle 100 mL variant,TEST1979,2029-07-03,114,177.0,230.0
+982,Aspirin 75 mg Tablet - Pack of 10 variant,TEST1980,2029-07-14,94,90.0,105.0
+983,Loratadine 5 mg/5 mL Syrup - Pack of 50 variant,TEST1981,2029-07-25,1,359.0,475.0
+984,Diphenhydramine 25 mg Capsule - Bottle 60 mL variant,TEST1982,2029-08-05,117,692.0,845.0
+985,Esomeprazole 40 mg Capsule - Pack of 5 variant,TEST1983,2029-08-16,4,473.0,635.0
+986,Famotidine 40 mg Tablet - Pack of 30 variant,TEST1984,2029-08-27,83,790.0,1020.0
+987,Ondansetron 4 mg/2 mL Injection - Bottle 30 mL variant,TEST1985,2029-09-07,117,736.0,885.0
+988,Oral rehydration salts Low-osmolarity formula Sachet - Unit pack variant,TEST1986,2029-09-18,47,462.0,540.0
+989,Lactobacillus probiotic Standard Sachet - Pack of 20 variant,TEST1987,2029-09-29,22,756.0,1005.0
+990,Amoxicillin + clavulanic acid 1 g Tablet - Pack of 100 variant,TEST1988,2029-10-10,51,113.0,150.0
+991,Cefixime 400 mg Capsule - Bottle 100 mL variant,TEST1989,2029-10-21,99,246.0,325.0
+992,Cephalexin 250 mg Capsule - Pack of 10 variant,TEST1990,2029-11-01,1,616.0,775.0
+993,Levofloxacin 250 mg Tablet - Pack of 50 variant,TEST1991,2029-11-12,38,69.0,85.0
+994,Metronidazole 400 mg Tablet - Bottle 60 mL variant,TEST1992,2029-11-23,63,554.0,680.0
+995,Co-trimoxazole 240 mg/5 mL Suspension - Pack of 5 variant,TEST1993,2029-12-04,101,908.0,1145.0
+996,Clotrimazole 500 mg Vaginal tablet - Pack of 30 variant,TEST1994,2029-12-15,3,545.0,730.0
+997,Acyclovir 5% Ointment - Bottle 30 mL variant,TEST1995,2029-12-26,88,423.0,540.0
+998,Prednisolone 5 mg Tablet - Unit pack variant,TEST1996,2027-01-07,84,322.0,370.0
+999,Salbutamol 100 mcg/dose Inhaler - Pack of 20 variant,TEST1997,2027-01-18,13,258.0,335.0
+1000,Montelukast 4 mg Tablet - Pack of 100 variant,TEST1998,2027-01-29,62,432.0,515.0
+1001,Loratadine + pseudoephedrine 10 mg/240 mg Tablet - Bottle 100 mL variant,TEST1999,2027-02-09,35,823.0,970.0

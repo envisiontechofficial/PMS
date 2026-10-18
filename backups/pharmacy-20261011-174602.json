@@ -1,0 +1,31 @@
+{
+ "medicines": [],
+ "sales": [],
+ "purchases": [],
+ "audit": [
+  {
+   "id": "1",
+   "who": "muhammad.waseq1@gmail.com",
+   "action": "add medicine Disp",
+   "at": "2026-10-11 16:07:35.923201"
+  },
+  {
+   "id": "2",
+   "who": "muhammad.waseq1@gmail.com",
+   "action": "delete medicine Disp",
+   "at": "2026-10-11 17:38:46.228768"
+  },
+  {
+   "id": "3",
+   "who": "muhammad.waseq1@gmail.com",
+   "action": "user ch.waseq1@gmail.com -> manager,None",
+   "at": "2026-10-11 17:44:34.463736"
+  },
+  {
+   "id": "4",
+   "who": "muhammad.waseq1@gmail.com",
+   "action": "user envisiontechofficial@gmail.com -> salesperson,True",
+   "at": "2026-10-11 17:46:02.670106"
+  }
+ ]
+}
